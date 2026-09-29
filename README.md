@@ -1,81 +1,1 @@
-# Saarth by The Quant Lab: website
-
-This is the static marketing site for Saarth, The Quant Lab's investing research workspace. It has two pages:
-
-- `index.html`: the overview. It covers the hero, What if, Journey, Build, a scripted Chakra concept, the decision journal, your portfolio, the name, and the closing section.
-- `features.html`: what Saarth does today and what's next. It covers integrations, Grow and Build side by side, and the future Chakra concept.
-
-There is no backend. Every demo runs in the browser on illustrative sample data, and nothing is sent anywhere. The scripted Chakra journal interaction and plain-language rule input are concepts, not current app features.
-
-## Stack
-
-- **Plain HTML, CSS and JavaScript, with no framework and no runtime dependencies.**
-- **Canvas and SVG** for the animations:
-  - the simulated-paths field in the hero;
-  - the Chakra solar system;
-  - the charts.
-- **Self-hosted fonts.** The four families are under the SIL Open Font License 1.1, and each licence file sits next to its fonts in `assets/fonts/`:
-
-  | Family | Used for |
-  |---|---|
-  | Anek Latin | Display type |
-  | Instrument Sans | Body text |
-  | IBM Plex Mono | Figures |
-  | Anek Devanagari | à¤¸à¤¾à¤°à¥à¤¥ |
-
-- **A small Node build step** with no packages. It assembles the pages from shared partials and writes `dist/`. Node 18 or later is required.
-
-## Commands
-
-```bash
-npm run build     # assemble src/ into dist/
-npm run preview   # serve dist/ at http://localhost:4173 (set PORT to change)
-npm start         # build, then preview
-```
-
-There is nothing to install. `package-lock.json` is included, but the package has no dependencies. You can also open `dist/` with any static file server, such as `python3 -m http.server -d dist 4173`.
-
-## Layout
-
-```
-src/
-  pages/index.html, pages/features.html   page bodies, each with a small @page JSON header (title, description, canonical)
-  partials/                               head, header, footer, the Chakra chat, and scripts, shared by both pages
-  assets/css/site.css                     all styles; theme tokens are at the top, fonts right after them
-  assets/js/site.js                       all behaviour, shared by both pages; modules run only where their section exists
-  assets/fonts/                           woff2 files and OFL licences
-  assets/img/                             social preview image and touch icon
-  static/                                 favicon.svg, robots.txt, sitemap.xml and 404.html, copied to the dist/ root
-scripts/build.mjs                         build (also turns #links to the other page into cross-page links, and fails on app.thequantlab.in)
-scripts/serve.mjs                         local preview server
-dist/                                     production output: deploy this folder
-.openai/hosting.json                      existing Sites project settings, unchanged (static directory: dist)
-screenshots/                              desktop and mobile, dark and light, both pages
-```
-
-## Editing notes
-
-- **Copy** lives in `src/pages/*.html`.
-- **Chakra's FAQ answers** are the `FAQ` list inside `ChakraApp` in `site.js`. Every chat answer comes from that list; nothing is generated.
-- **Destinations** are set in `LINKS` near the top of `site.js`:
-  - `app`
-  - `youtube`
-  - `home`
-  - `blog`
-  - `courses`
-
-  A destination set to `null` shows **Soon** and isn't a link. When blog, courses or the Quant Lab home go live, set their URL there and rebuild.
-- **Themes.** Dark and light come from the same tokens in `site.css`, and each viewer's choice is remembered in their browser.
-- **Motion.** Everything animated respects Pause motion (on both pages) and the system's reduced-motion setting.
-
-## Hostnames
-
-| Hostname | What to serve |
-|---|---|
-| `saarth.thequantlab.in` | This `dist/` output: `/` is the overview and `/features.html` is the features page. This is the primary home for the site; canonical URLs, the sitemap and social tags point here. |
-| `saarth.thequantlab.in/app` | Reserved for the Saarth app. It is not part of this bundle. The "Open Saarth" buttons remain disabled until this path routes to a verified app deployment; then set `LINKS.app` in `src/assets/js/site.js` and rebuild. |
-| `thequantlab.in` | For now, the same `dist/` output, product-led, as the brief allows, or a redirect to `saarth.thequantlab.in`. The canonical tags keep search engines pointed at the saarth hostname either way. The footer's "The Quant Lab: Home" link waits for a real Quant Lab home page. |
-| `blog.thequantlab.in` | Later, a redirect to Medium. The footer and the Learn menu show Blog as **Soon** until it's set up. |
-| `courses.thequantlab.in` | Later. Courses shows as **Soon** until it's set up. |
-
-`app.thequantlab.in` is never used, and the build fails if it appears anywhere.
+ıK®ÏÚ‘ªì‡üì…éïÖz,¹È_ŠW¨­Ø«yËh¯/Ô±êìı©®Èqªà£÷§¼ŒM……ÉÑ ‰äQ¡”EÕ…¹Ğ1…ˆèİ•‰Í¥Ñ”()Q¡¥Ì¥ÌÑ¡”ÍÑ…Ñ¥Œµ…É­•Ñ¥¹œÍ¥Ñ”™½ÈM……ÉÑ °Q¡”EÕ…¹Ğ1…ˆÌ¥¹Ù•ÍÑ¥¹œÉ•Í•…É İ½É­ÍÁ…”¸%Ğ¡…ÌÑİ¼Á…•Ìè((´¥¹‘•à¹¡Ñµ±€èÑ¡”½Ù•ÉÙ¥•Ü¸%Ğ½Ù•ÉÌÑ¡”¡•É¼°]¡…Ğ¥˜°)½ÕÉ¹•ä°	Õ¥±°„ÍÉ¥ÁÑ•¡…­É„½¹•ÁĞ°Ñ¡”‘•¥Í¥½¸©½ÕÉ¹…°°å½ÕÈÁ½ÉÑ™½±¥¼°Ñ¡”¹…µ”°…¹Ñ¡”±½Í¥¹œÍ•Ñ¥½¸¸(´™•…ÑÕÉ•Ì¹¡Ñµ±€èİ¡…ĞM……ÉÑ ‘½•ÌÑ½‘…ä…¹İ¡…ĞÌ¹•áĞ¸%Ğ½Ù•ÉÌ¥¹Ñ•É…Ñ¥½¹Ì°É½Ü…¹	Õ¥±Í¥‘”‰äÍ¥‘”°…¹Ñ¡”™ÕÑÕÉ”¡…­É„½¹•ÁĞ¸()Q¡•É”¥Ì¹¼‰…­•¹¸Ù•Éä‘•µ¼ÉÕ¹Ì¥¸Ñ¡”‰É½İÍ•È½¸¥±±ÕÍÑÉ…Ñ¥Ù”Í…µÁ±”‘…Ñ„°…¹¹½Ñ¡¥¹œ¥ÌÍ•¹Ğ…¹åİ¡•É”¸Q¡”ÍÉ¥ÁÑ•¡…­É„©½ÕÉ¹…°¥¹Ñ•É…Ñ¥½¸…¹Á±…¥¸µ±…¹Õ…”ÉÕ±”¥¹ÁÕĞ…É”½¹•ÁÑÌ°¹½ĞÕÉÉ•¹Ğ…ÁÀ™•…ÑÕÉ•Ì¸((ŒŒMÑ…¬((´€¨©A±…¥¸!Q50°ML…¹)…Ù…MÉ¥ÁĞ°İ¥Ñ ¹¼™É…µ•İ½É¬…¹¹¼ÉÕ¹Ñ¥µ”‘•Á•¹‘•¹¥•Ì¸¨¨(´€¨©…¹Ù…Ì…¹MY¨¨™½ÈÑ¡”…¹¥µ…Ñ¥½¹Ìè(€€´Ñ¡”Í¥µÕ±…Ñ•µÁ…Ñ¡Ì™¥•±¥¸Ñ¡”¡•É¼ì(€€´Ñ¡”¡…­É„Í½±…ÈÍåÍÑ•´ì(€€´Ñ¡”¡…ÉÑÌ¸(´€¨©M•±˜µ¡½ÍÑ•™½¹ÑÌ¸¨¨Q¡”™½ÕÈ™…µ¥±¥•Ì…É”Õ¹‘•ÈÑ¡”M%0=Á•¸½¹Ğ1¥•¹Í”€Ä¸Ä°…¹•… ±¥•¹”™¥±”Í¥ÑÌ¹•áĞÑ¼¥ÑÌ™½¹ÑÌ¥¸…ÍÍ•ÑÌ½™½¹ÑÌ½€è((€ğ…µ¥±äğUÍ•™½Èğ(€ğ´´µğ´´µğ(€ğ¹•¬1…Ñ¥¸ğ¥ÍÁ±…äÑåÁ”ğ(€ğ%¹ÍÑÉÕµ•¹ĞM…¹Ìğ	½‘äÑ•áĞğ(€ğ%	4A±•à5½¹¼ğ¥ÕÉ•Ìğ(€ğ¹•¬•Ù…¹……É¤ğƒ‚’ã‚’û‚’Ã‚–7‚’”ğ((´€¨©Íµ…±°9½‘”‰Õ¥±ÍÑ•À¨¨İ¥Ñ ¹¼Á…­…•Ì¸%Ğ…ÍÍ•µ‰±•ÌÑ¡”Á…•Ì™É½´Í¡…É•Á…ÉÑ¥…±Ì…¹İÉ¥Ñ•Ì‘¥ÍĞ½€¸9½‘”€Äà½È±…Ñ•È¥ÌÉ•ÅÕ¥É•¸((ŒŒ½µµ…¹‘Ì()‰…Í )¹Á´ÉÕ¸‰Õ¥±€€€€€Œ…ÍÍ•µ‰±”ÍÉŒ¼¥¹Ñ¼‘¥ÍĞ¼)¹Á´ÉÕ¸ÁÉ•Ù¥•Ü€€€ŒÍ•ÉÙ”‘¥ÍĞ¼…Ğ¡ÑÑÀè¼½±½…±¡½ÍĞèĞÄÜÌ€¡Í•ĞA=IPÑ¼¡…¹”¤)¹Á´ÍÑ…ÉĞ€€€€€€€€€Œ‰Õ¥±°Ñ¡•¸ÁÉ•Ù¥•Ü)€()Q¡•É”¥Ì¹½Ñ¡¥¹œÑ¼¥¹ÍÑ…±°¸Á…­…”µ±½¬¹©Í½¹€¥Ì¥¹±Õ‘•°‰ÕĞÑ¡”Á…­…”¡…Ì¹¼‘•Á•¹‘•¹¥•Ì¸e½Ô…¸…±Í¼½Á•¸‘¥ÍĞ½€İ¥Ñ …¹äÍÑ…Ñ¥Œ™¥±”Í•ÉÙ•È°ÍÕ …ÌÁåÑ¡½¸Ì€µ´¡ÑÑÀ¹Í•ÉÙ•È€µ‘¥ÍĞ€ĞÄÜÍ€¸((ŒŒ1…å½ÕĞ()€)ÍÉŒ¼(€Á…•Ì½¥¹‘•à¹¡Ñµ°°Á…•Ì½™•…ÑÕÉ•Ì¹¡Ñµ°€€Á…”‰½‘¥•Ì°•… İ¥Ñ „Íµ…±°Á…”)M=8¡•…‘•È€¡Ñ¥Ñ±”°‘•ÍÉ¥ÁÑ¥½¸°…¹½¹¥…°¤(€Á…ÉÑ¥…±Ì¼€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€¡•…°¡•…‘•È°™½½Ñ•È°Ñ¡”¡…­É„¡…Ğ°…¹ÍÉ¥ÁÑÌ°Í¡…É•‰ä‰½Ñ Á…•Ì(€…ÍÍ•ÑÌ½ÍÌ½Í¥Ñ”¹ÍÌ€€€€€€€€€€€€€€€€€€€€…±°ÍÑå±•ÌìÑ¡•µ”Ñ½­•¹Ì…É”…ĞÑ¡”Ñ½À°™½¹ÑÌÉ¥¡Ğ…™Ñ•ÈÑ¡•´(€…ÍÍ•ÑÌ½©Ì½Í¥Ñ”¹©Ì€€€€€€€€€€€€€€€€€€€€€€…±°‰•¡…Ù¥½ÕÈ°Í¡…É•‰ä‰½Ñ Á…•Ììµ½‘Õ±•ÌÉÕ¸½¹±äİ¡•É”Ñ¡•¥ÈÍ•Ñ¥½¸•á¥ÍÑÌ(€…ÍÍ•ÑÌ½™½¹ÑÌ¼€€€€€€€€€€€€€€€€€€€€€€€€€€İ½™˜È™¥±•Ì…¹=0±¥•¹•Ì(€…ÍÍ•ÑÌ½¥µœ¼€€€€€€€€€€€€€€€€€€€€€€€€€€€€Í½¥…°ÁÉ•Ù¥•Ü¥µ…”…¹Ñ½Õ ¥½¸(€ÍÑ…Ñ¥Œ¼€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€™…Ù¥½¸¹ÍÙœ°É½‰½ÑÌ¹ÑáĞ°Í¥Ñ•µ…À¹áµ°…¹€ĞÀĞ¹¡Ñµ°°½Á¥•Ñ¼Ñ¡”‘¥ÍĞ¼É½½Ğ)ÍÉ¥ÁÑÌ½‰Õ¥±¹µ©Ì€€€€€€€€€€€€€€€€€€€€€€€€‰Õ¥±€¡…±Í¼ÑÕÉ¹Ì€±¥¹­ÌÑ¼Ñ¡”½Ñ¡•ÈÁ…”¥¹Ñ¼É½ÍÌµÁ…”±¥¹­Ì°…¹™…¥±Ì½¸…ÁÀ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¸¤)ÍÉ¥ÁÑÌ½Í•ÉÙ”¹µ©Ì€€€€€€€€€€€€€€€€€€€€€€€€±½…°ÁÉ•Ù¥•ÜÍ•ÉÙ•È)‘¥ÍĞ¼€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€ÁÉ½‘ÕÑ¥½¸½ÕÑÁÕĞè‘•Á±½äÑ¡¥Ì™½±‘•È(¹½Á•¹…¤½¡½ÍÑ¥¹œ¹©Í½¸€€€€€€€€€€€€€€€€€€€€€•á¥ÍÑ¥¹œM¥Ñ•ÌÁÉ½©•ĞÍ•ÑÑ¥¹Ì°Õ¹¡…¹•€¡ÍÑ…Ñ¥Œ‘¥É•Ñ½Éäè‘¥ÍĞ¤)ÍÉ••¹Í¡½ÑÌ¼€€€€€€€€€€€€€€€€€€€€€€€€€€€€€‘•Í­Ñ½À…¹µ½‰¥±”°‘…É¬…¹±¥¡Ğ°‰½Ñ Á…•Ì)€((ŒŒ‘¥Ñ¥¹œ¹½Ñ•Ì((´€¨©½Áä¨¨±¥Ù•Ì¥¸ÍÉŒ½Á…•Ì¼¨¹¡Ñµ±€¸(´€¨©¡…­É„ÌD…¹Íİ•ÉÌ¨¨…É”Ñ¡”E€±¥ÍĞ¥¹Í¥‘”¡…­É…ÁÁ€¥¸Í¥Ñ”¹©Í€¸Ù•Éä¡…Ğ…¹Íİ•È½µ•Ì™É½´Ñ¡…Ğ±¥ÍĞì¹½Ñ¡¥¹œ¥Ì•¹•É…Ñ•¸(´€¨©•ÍÑ¥¹…Ñ¥½¹Ì¨¨…É”Í•Ğ¥¸1%9-M€¹•…ÈÑ¡”Ñ½À½˜Í¥Ñ”¹©Í€è(€€´…ÁÁ€(€€´å½ÕÑÕ‰•€(€€´¡½µ•€(€€´‰±½€(€€´½ÕÉÍ•Í€((€‘•ÍÑ¥¹…Ñ¥½¸Í•ĞÑ¼¹Õ±±€Í¡½İÌ€¨©M½½¸¨¨…¹¥Í¸Ğ„±¥¹¬¸]¡•¸‰±½œ°½ÕÉÍ•Ì½ÈÑ¡”EÕ…¹Ğ1…ˆ¡½µ”¼±¥Ù”°Í•ĞÑ¡•¥ÈUI0Ñ¡•É”…¹É•‰Õ¥±¸(´€¨©Q¡•µ•Ì¸¨¨…É¬…¹±¥¡Ğ½µ”™É½´Ñ¡”Í…µ”Ñ½­•¹Ì¥¸Í¥Ñ”¹ÍÍ€°…¹•… Ù¥•İ•ÈÌ¡½¥”¥ÌÉ•µ•µ‰•É•¥¸Ñ¡•¥È‰É½İÍ•È¸(´€¨©5½Ñ¥½¸¸¨¨Ù•ÉåÑ¡¥¹œ…¹¥µ…Ñ•É•ÍÁ•ÑÌA…ÕÍ”µ½Ñ¥½¸€¡½¸‰½Ñ Á…•Ì¤…¹Ñ¡”ÍåÍÑ•´ÌÉ•‘Õ•µµ½Ñ¥½¸Í•ÑÑ¥¹œ¸((ŒŒ!½ÍÑ¹…µ•Ì()ğ!½ÍÑ¹…µ”ğ]¡…ĞÑ¼Í•ÉÙ”ğ)ğ´´µğ´´µğ)ğÍ……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€ğQ¡¥Ì‘¥ÍĞ½€½ÕÑÁÕĞè€½€¥ÌÑ¡”½Ù•ÉÙ¥•Ü…¹€½™•…ÑÕÉ•Ì¹¡Ñµ±€¥ÌÑ¡”™•…ÑÕÉ•ÌÁ…”¸Q¡¥Ì¥ÌÑ¡”ÁÉ¥µ…Éä¡½µ”™½ÈÑ¡”Í¥Ñ”ì…¹½¹¥…°UI1Ì°Ñ¡”Í¥Ñ•µ…À…¹Í½¥…°Ñ…ÌÁ½¥¹Ğ¡•É”¸ğ)ğÍ……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¸½…ÁÁ€ğI•Í•ÉÙ•™½ÈÑ¡”M……ÉÑ …ÁÀ¸%Ğ¥Ì¹½ĞÁ…ÉĞ½˜Ñ¡¥Ì‰Õ¹‘±”¸Q¡”€‰=Á•¸M……ÉÑ ˆ‰ÕÑÑ½¹ÌÉ•µ…¥¸‘¥Í…‰±•Õ¹Ñ¥°Ñ¡¥ÌÁ…Ñ É½ÕÑ•ÌÑ¼„Ù•É¥™¥•…ÁÀ‘•Á±½åµ•¹ĞìÑ¡•¸Í•Ğ1%9-L¹…ÁÁ€¥¸ÍÉŒ½…ÍÍ•ÑÌ½©Ì½Í¥Ñ”¹©Í€…¹É•‰Õ¥±¸ğ)ğÑ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€ğ½È¹½Ü°Ñ¡”Í…µ”‘¥ÍĞ½€½ÕÑÁÕĞ°ÁÉ½‘ÕĞµ±•°…ÌÑ¡”‰É¥•˜…±±½İÌ°½È„É•‘¥É•ĞÑ¼Í……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€¸Q¡”…¹½¹¥…°Ñ…Ì­••ÀÍ•…É •¹¥¹•ÌÁ½¥¹Ñ•…ĞÑ¡”Í……ÉÑ ¡½ÍÑ¹…µ”•¥Ñ¡•Èİ…ä¸Q¡”™½½Ñ•ÈÌ€‰Q¡”EÕ…¹Ğ1…ˆè!½µ”ˆ±¥¹¬İ…¥ÑÌ™½È„É•…°EÕ…¹Ğ1…ˆ¡½µ”Á…”¸ğ)ğ‰±½œ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€ğ1…Ñ•È°„É•‘¥É•ĞÑ¼5•‘¥Õ´¸Q¡”™½½Ñ•È…¹Ñ¡”1•…É¸µ•¹ÔÍ¡½Ü	±½œ…Ì€¨©M½½¸¨¨Õ¹Ñ¥°¥ĞÌÍ•ĞÕÀ¸ğ)ğ½ÕÉÍ•Ì¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€ğ1…Ñ•È¸½ÕÉÍ•ÌÍ¡½İÌ…Ì€¨©M½½¸¨¨Õ¹Ñ¥°¥ĞÌÍ•ĞÕÀ¸ğ()…ÁÀ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€¥Ì¹•Ù•ÈÕÍ•°…¹Ñ¡”‰Õ¥±™…¥±Ì¥˜¥Ğ…ÁÁ•…ÉÌ…¹åİ¡•É”¸(
