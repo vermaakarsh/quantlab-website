@@ -1,0 +1,99 @@
+<!-- @page {"page": "features", "skip": "#features", "canonical": "https://saarth.thequantlab.in/features.html", "title": "Saarth Features", "description": "Explore Saarth’s portfolio tools, scenarios, backtests and decision journal, plus the ideas we are developing next."} -->
+<!-- @include head -->
+<!-- @include header -->
+
+<main id="features" class="fpage" aria-labelledby="f-title">
+  <section class="f-hero" id="f-top">
+    <div class="f-dots" aria-hidden="true"></div>
+    <div class="k3d kx-full" id="k3d" data-chakra="full" data-beads="30" data-lit="5" aria-hidden="true"></div>
+    <div class="shell">
+      <p class="q">What can Saarth do today, and what’s next?</p>
+      <h1 class="display f-title" id="f-title">Grow what you have.<br><span class="soft">Build what’s next.</span></h1>
+      <p class="lede">One platform for the money you already have and the ideas you might act on. It brings every account in, lets you see and question it, and tests new ideas on history before they touch real money. The list keeps growing.</p>
+      <div class="actions"><a class="btn btn-primary" data-link="app" href="https://saarth.thequantlab.in/app">Open Saarth <svg class="arr" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 10 10 4M5 4h5v5"/></svg></a><a class="btn btn-ghost" href="#f-integrations">See how data comes in</a></div>
+      <div class="status-key"><span class="st live"><i></i>Live</span><span class="st exp"><i></i>Experimental</span><span class="st next"><i></i>Next: what we’re building now</span></div>
+      <div class="f-motion"><button class="motion-btn" id="motion-btn" type="button" aria-pressed="false"><span class="motion-ic" aria-hidden="true"></span><span id="motion-tx">Pause motion</span></button></div>
+    </div>
+  </section>
+
+  <section class="section tight" id="f-integrations" aria-labelledby="fi-title">
+    <div class="shell">
+      <div class="sec-head">
+        <p class="q">Where does your money actually live?</p>
+        <h2 id="fi-title">Bring data in from anywhere you invest.</h2>
+        <p class="sec-sub">Broker connectors, statement files and APIs flow into one combined portfolio. Every connection is read-only, and everything else on this page starts here.</p>
+      </div>
+      <div class="imap panel ticked" id="imap">
+        <svg class="wires" id="wires" aria-hidden="true"></svg>
+        <div class="src" id="src">
+          <div class="src-i" data-w="flow"><span>Zerodha Kite<small>MCP server, read-only snapshot</small></span><span class="st live"><i></i>Live</span></div>
+          <div class="src-i" data-w="flow"><span>Zerodha Console<small>CSV and XLSX exports</small></span><span class="st live"><i></i>Live</span></div>
+          <div class="src-i" data-w="flow"><span>Dhan<small>Statement CSV</small></span><span class="st live"><i></i>Live</span></div>
+          <div class="src-i" data-w="flow"><span>Any broker<small>A CSV, or add holdings by hand</small></span><span class="st live"><i></i>Live</span></div>
+          <div class="src-i" data-w="flow"><span>Screenshots<small>Read with your own AI key</small></span><span class="st live"><i></i>Live</span></div>
+          <div class="src-i next" data-w="next"><span>Other brokers’ MCP servers<small>Bring your broker’s own connector</small></span><span class="st next"><i></i>Next</span></div>
+          <div class="src-i next" data-w="next"><span>Saarth API<small>Send data in from your own tools</small></span><span class="st next"><i></i>Next</span></div>
+        </div>
+        <div class="hub" id="hub"><span class="hub-mark"><svg viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M3 21.5c4.5-.3 7-2.6 12-3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" opacity=".55"/><path d="M15 18 29 7.5M15 18h14M15 18l14 10" stroke="var(--accent)" stroke-width="1.6" stroke-linecap="round"/><circle cx="15" cy="18" r="2.6" fill="var(--accent)"/></svg></span><b>Saarth</b><small>One portfolio</small></div>
+        <div class="outs" id="outs">
+          <div class="out-i"><b>Combined view</b><small>Every account, one line per stock</small></div>
+          <div class="out-i"><b>What if and Journey</b><small>Scenarios and routes on real holdings</small></div>
+          <div class="out-i"><b>Decision journal</b><small>Record the reason behind a decision</small></div>
+          <div class="out-i"><b>Build</b><small>Test ideas on the stocks you own</small></div>
+        </div>
+      </div>
+      <p class="fine" style="margin-top:14px">MCP, the Model Context Protocol, is a standard way for apps to talk to a service’s own connector. Saarth uses it to read holdings, and only to read them.</p>
+    </div>
+  </section>
+
+  <section class="section tight" id="f-timeline" aria-labelledby="ft-title">
+    <div class="shell">
+      <div class="sec-head">
+        <p class="q">What happens after your data is in?</p>
+        <h2 id="ft-title">Two journeys, side by side.</h2>
+        <p class="sec-sub">Grow, on the left, is about what you already own. Build, on the right, is about what you might do next. At every step, each has its own tools.</p>
+      </div>
+      <div class="dt" id="dt">
+        <div class="dt-head" aria-hidden="true"><div class="dt-h grow"><b>Grow</b><span>Understand what you own</span><span class="status"><i class="dot dot-live"></i>Live</span></div><div></div><div class="dt-h build"><b>Build</b><span>Test what you might do next</span><span class="status"><i class="dot dot-exp"></i>Experimental</span></div></div>
+        <div class="dt-spine" aria-hidden="true"><span class="dt-fill" id="dt-fill"></span></div>
+        <ol class="dt-list" id="dt-list"></ol>
+      </div>
+    </div>
+  </section>
+
+  <section class="section tight" id="f-chakra" aria-labelledby="fk-title">
+    <div class="shell fk">
+      <div class="fk-loop" aria-hidden="true">
+        <svg class="fk-ring" viewBox="0 0 100 100"><circle class="fk-track" cx="50" cy="50" r="46"/><circle class="fk-comet" cx="50" cy="50" r="46" pathLength="100"/><path class="fk-arrow" d="M-1.2 -1.4 0 0 -1.2 1.4" transform="translate(96.00 50.00) rotate(90)"/><path class="fk-arrow" d="M-1.2 -1.4 0 0 -1.2 1.4" transform="translate(50.00 96.00) rotate(180)"/><path class="fk-arrow" d="M-1.2 -1.4 0 0 -1.2 1.4" transform="translate(4.00 50.00) rotate(270)"/><path class="fk-arrow" d="M-1.2 -1.4 0 0 -1.2 1.4" transform="translate(50.00 4.00) rotate(360)"/></svg>
+        <div class="fk-wheel kx-full" data-chakra="full" data-beads="30" data-lit="4" data-zoom="1.3" data-ghosts="1"></div>
+        <span class="fk-st" style="left:17.47%;top:17.47%;--d:-3.375s">A trade<small>in Grow</small></span><span class="fk-st" style="left:82.53%;top:17.47%;--d:-1.125s">The reason you give</span><span class="fk-st" style="left:82.53%;top:82.53%;--d:-7.875s">A rule you keep</span><span class="fk-st" style="left:17.47%;top:82.53%;--d:-5.625s">A test<small>in Build</small></span>
+      </div>
+      <div class="fk-copy">
+        <p class="q">Where do the two journeys meet?</p>
+        <h2 id="fk-title">Chakra is the next turn of the wheel.</h2>
+        <p class="sec-sub">The vision: connect the decisions you record in Grow to testable ideas in Build. The interaction here is a scripted concept demo, not a feature available in the app today.</p>
+        <ul class="fk-list">
+          <li><b>Start with your reasons</b><span>Keep a record of the decisions behind your holdings.</span></li>
+          <li><b>Imagine readable rules</b><span>A future assistant could make patterns clear enough to test.</span></li>
+          <li><b>Stay in control</b><span>The concept keeps approval with you, never a recommendation.</span></li>
+        </ul>
+        <div class="actions"><button class="btn btn-ghost" type="button" data-open-chakra data-ask="Is Chakra an AI that decides for me?">Ask about the concept</button></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section closing f-close" id="f-close" aria-labelledby="fc-title">
+    <div class="shell close-grid">
+      <h2 id="fc-title">Start with the portfolio you already have.</h2>
+      <div style="display:flex;flex-wrap:wrap;align-items:center;gap:14px 22px">
+        <a class="btn btn-primary" data-link="app" href="https://saarth.thequantlab.in/app">Open Saarth <svg class="arr" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 10 10 4M5 4h5v5"/></svg></a>
+        <a class="btn btn-ghost" href="#top">Back to the overview</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- @include footer -->
+
+<!-- @include chakra -->
+<!-- @include scripts -->

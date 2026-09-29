@@ -1,0 +1,20 @@
+<div class="ck-dock">
+  <button class="ck-launch is-away" id="ck-launch" type="button" aria-expanded="false" aria-controls="ck-panel" aria-label="Chat with Chakra" title="Chakra">
+    <span class="ck-k" data-chakra="mini"></span>
+  </button>
+</div>
+<aside class="ck-panel" id="ck-panel" aria-labelledby="ck-title" hidden>
+  <div class="ck-head">
+    <span class="ck-av" data-chakra="mini" aria-hidden="true"></span>
+    <div><b id="ck-title">Chakra</b><small><i class="dot dot-live"></i><span id="ck-status">Answers from the Saarth FAQ</span></small></div>
+    <button class="icon-btn" id="ck-close" type="button" aria-label="Close Chakra"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <div class="ck-thread" id="ck-thread" aria-live="polite"></div>
+  <div class="ck-foot">
+    <div class="ck-sugg" id="ck-sugg" role="group" aria-label="Suggested questions"></div>
+    <form class="ask-bar ask-sm ck-form" id="ck-form"><label class="sr-only" for="ck-q">Ask Chakra</label><input id="ck-q" type="text" maxlength="160" autocomplete="off" placeholder="Ask Chakra about Saarth" /><button class="btn btn-primary btn-sm" type="submit">Send</button></form>
+    <p class="fine">Chakra answers only from the FAQ. If it doesn’t know, it says so. Not investment advice.</p>
+  </div>
+</aside>
+
+<div class="tip" id="tip" role="tooltip"></div>

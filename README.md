@@ -50,7 +50,7 @@ scripts/build.mjs                         build (also turns #links to the other 
 scripts/serve.mjs                         local preview server
 dist/                                     production output: deploy this folder
 .openai/hosting.json                      existing Sites project settings, unchanged (static directory: dist)
-screenshots/                              desktop and mobile, dark and light, both pages
+screenshots/                              supplied ZIP only: visual QA captures, not tracked in Git
 ```
 
 ## Editing notes

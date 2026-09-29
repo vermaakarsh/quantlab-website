@@ -1,0 +1,57 @@
+# Handoff
+
+## CTA destinations
+
+| Link | Where it appears | Destination | State |
+|---|---|---|---|
+| Open Saarth, Open the app | Header, hero, closing sections, footer, and the Features hero and closing | `https://saarth.thequantlab.in/app` | Needs the `/app` route to reach the app |
+| YouTube | Learn menu, footer | `https://youtube.com/@quantlab` | Live link; confirm the handle |
+| Blog | Learn menu, footer | none: shows **Soon** | Waiting for `blog.thequantlab.in` (Medium redirect) |
+| Courses | Learn menu, footer | none: shows **Soon** | Waiting for `courses.thequantlab.in` |
+| The Quant Lab: Home | Footer | none: shows **Soon** | Waiting for a Quant Lab home at `thequantlab.in` |
+| Features, All features | Header, Product menu, footer | `features.html` | In this bundle |
+| Product menu, footer and in-page links | Both pages | Sections of `index.html` (What if, Journey, Build, Chakra, Your portfolio, Grow and Build, What we won't do) | In this bundle |
+| Links inside Chakra's answers | Chat panel, on both pages | The section the answer refers to, on either page | In this bundle |
+
+The URLs live in `LINKS` at the top of `src/assets/js/site.js`. Rebuild with `npm run build` after changing one.
+
+## Still to configure (not done here)
+
+- **DNS and hosting.** Serve `dist/` at `saarth.thequantlab.in`, and decide whether `thequantlab.in` serves the same build or redirects to it. `.openai/hosting.json` is unchanged and already points at `dist`.
+- **The `/app` route.** `saarth.thequantlab.in/app` must route to the app, not to this site.
+- **Blog, courses and the Quant Lab home.** Set their URLs in `LINKS` when they exist; until then they show as "Soon".
+- **Social preview.** `og:image` uses the absolute URL `https://saarth.thequantlab.in/assets/img/og-saarth.jpg`, so previews work once that hostname is live.
+- **Analytics and cookies.** There is no analytics, tracking or cookie banner. Only the theme and motion choices are stored, in the visitor's own browser.
+- **Nothing was pushed, deployed or published, and DNS was not touched.**
+
+## Product claims to confirm
+
+These were checked against `quantlab-compass` `docs/HANDOFF.md` and `docs/requirements/feature-backlog.md`, read-only. Please confirm the ones marked **confirm** before launch.
+
+- **Shipped per the backlog:**
+  - imports: Kite MCP read-only snapshot, Zerodha Console files, Dhan statements, generic CSV and manual entry;
+  - analysis: tax estimate with FY 2025-26 rules (₹1.25L LTCG exemption), Monte Carlo journeys, and portfolio views of accounts, sectors and concentration;
+  - research: rule templates, the Evidence check, backtests and walk-forward (Pro-gated in the app);
+  - watchlists.
+- **Confirm the status labels on the Features page:** each feature is marked Live, Experimental or Next. Build is presented as experimental throughout; the backlog's launch posture gates parts of Build as "Coming soon".
+- **Confirm paper trading:** the Build chat answer says it "runs a rule forward with virtual capital". The Build progress rail shows it as "next, in Saarth".
+- **Confirm screenshot import** using the visitor's own AI key (BYOK). The backlog lists statement upload preview and BYOK assistive AI, but not screenshot parsing by name.
+- **Confirm Chakra learning rules from trades and reasons** ("Seen 3 of 3 times", with the visitor approving each rule). This is presented as the vision. The backlog lists journal assistive AI with BYOK.
+- **Confirm "Chakra's route"** (portfolio optimisation toward a goal). The backlog lists strategy-parameter optimisation, not portfolio optimisation.
+- **Confirm the privacy lines:** read-only broker connections, the session held in a secure cookie, and removing an account and its data from Settings.
+- **Confirm pricing:** "You can start free. Deeper features and heavier use come with paid plans."
+- **Confirm mutual funds:** listed as next, with today's focus on listed shares and ETFs.
+- **Regulatory lens (India):** run the planned SEBI-lens review of the copy. The site is written as research, not advice: no tips, no predictions, past-conditional wording, and "illustrative" labels on every sample.
+
+## Notes
+
+- **The previous `dist/` draft was reviewed and superseded:** `index.html` and `styles.css` with uncommitted edits, `script.js`, and `assets/quant-research-hero.jpg`.
+  - This bundle doesn't use the hero photo, so no image licence is needed.
+  - Every visual here is drawn in code, apart from `og-saarth.jpg` and the touch icon, which are screenshots of this site.
+  - The draft files in the Codex folder were left untouched.
+- **Chakra keeps its name and is drawn as a small solar system:**
+  - the sun is your goal;
+  - planets are the rules you keep;
+  - comets are the reasons you log.
+
+  The on-site chat answers only from the fixed FAQ in `site.js`, and says so.

@@ -1,0 +1,15 @@
+{
+  "name": "quantlab-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Saarth by The Quant Lab: static marketing site (overview and features).",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "start": "npm run build && npm run preview"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
