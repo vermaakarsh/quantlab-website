@@ -1,2 +1,57 @@
-ıK®ÏÚ‘ªì‡üì…éïÖz,¹È_ŠW¨­Ø«yËh¯/Ô±êìı©®Èqªà£÷§¼Œ!…¹‘½™˜((ŒŒQ‘•ÍÑ¥¹…Ñ¥½¹Ì()ğ1¥¹¬ğ]¡•É”¥Ğ…ÁÁ•…ÉÌğ•ÍÑ¥¹…Ñ¥½¸ğMÑ…Ñ”ğ)ğ´´µğ´´µğ´´µğ´´µğ)ğ=Á•¸M……ÉÑ °=Á•¸Ñ¡”…ÁÀğ!•…‘•È°¡•É¼°±½Í¥¹œÍ•Ñ¥½¹Ì°™½½Ñ•È°…¹Ñ¡”•…ÑÕÉ•Ì¡•É¼…¹±½Í¥¹œğ¡ÑÑÁÌè¼½Í……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¸½…ÁÁ€ğ9••‘ÌÑ¡”€½…ÁÁ€É½ÕÑ”Ñ¼É•… Ñ¡”…ÁÀğ)ğe½ÕQÕ‰”ğ1•…É¸µ•¹Ô°™½½Ñ•Èğ¡ÑÑÁÌè¼½å½ÕÑÕ‰”¹½´½ÅÕ…¹Ñ±…‰€ğ1¥Ù”±¥¹¬ì½¹™¥É´Ñ¡”¡…¹‘±”ğ)ğ	±½œğ1•…É¸µ•¹Ô°™½½Ñ•Èğ¹½¹”èÍ¡½İÌ€¨©M½½¸¨¨ğ]…¥Ñ¥¹œ™½È‰±½œ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€€¡5•‘¥Õ´É•‘¥É•Ğ¤ğ)ğ½ÕÉÍ•Ìğ1•…É¸µ•¹Ô°™½½Ñ•Èğ¹½¹”èÍ¡½İÌ€¨©M½½¸¨¨ğ]…¥Ñ¥¹œ™½È½ÕÉÍ•Ì¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€ğ)ğQ¡”EÕ…¹Ğ1…ˆè!½µ”ğ½½Ñ•Èğ¹½¹”èÍ¡½İÌ€¨©M½½¸¨¨ğ]…¥Ñ¥¹œ™½È„EÕ…¹Ğ1…ˆ¡½µ”…ĞÑ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€ğ)ğ•…ÑÕÉ•Ì°±°™•…ÑÕÉ•Ìğ!•…‘•È°AÉ½‘ÕĞµ•¹Ô°™½½Ñ•Èğ™•…ÑÕÉ•Ì¹¡Ñµ±€ğ%¸Ñ¡¥Ì‰Õ¹‘±”ğ)ğAÉ½‘ÕĞµ•¹Ô°™½½Ñ•È…¹¥¸µÁ…”±¥¹­Ìğ	½Ñ Á…•ÌğM•Ñ¥½¹Ì½˜¥¹‘•à¹¡Ñµ±€€¡]¡…Ğ¥˜°)½ÕÉ¹•ä°	Õ¥±°¡…­É„°e½ÕÈÁ½ÉÑ™½±¥¼°É½Ü…¹	Õ¥±°]¡…Ğİ”İ½¸Ğ‘¼¤ğ%¸Ñ¡¥Ì‰Õ¹‘±”ğ)ğ1¥¹­Ì¥¹Í¥‘”¡…­É„Ì…¹Íİ•ÉÌğ¡…ĞÁ…¹•°°½¸‰½Ñ Á…•ÌğQ¡”Í•Ñ¥½¸Ñ¡”…¹Íİ•ÈÉ•™•ÉÌÑ¼°½¸•¥Ñ¡•ÈÁ…”ğ%¸Ñ¡¥Ì‰Õ¹‘±”ğ()Q¡”UI1Ì±¥Ù”¥¸1%9-M€…ĞÑ¡”Ñ½À½˜ÍÉŒ½…ÍÍ•ÑÌ½©Ì½Í¥Ñ”¹©Í€¸I•‰Õ¥±İ¥Ñ ¹Á´ÉÕ¸‰Õ¥±‘€…™Ñ•È¡…¹¥¹œ½¹”¸((ŒŒMÑ¥±°Ñ¼½¹™¥ÕÉ”€¡¹½Ğ‘½¹”¡•É”¤((´€¨©9L…¹¡½ÍÑ¥¹œ¸¨¨M•ÉÙ”‘¥ÍĞ½€…ĞÍ……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€°…¹‘•¥‘”İ¡•Ñ¡•ÈÑ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€Í•ÉÙ•ÌÑ¡”Í…µ”‰Õ¥±½ÈÉ•‘¥É•ÑÌÑ¼¥Ğ¸€¹½Á•¹…¤½¡½ÍÑ¥¹œ¹©Í½¹€¥ÌÕ¹¡…¹•…¹…±É•…‘äÁ½¥¹ÑÌ…Ğ‘¥ÍÑ€¸(´€¨©Q¡”€½…ÁÁ€É½ÕÑ”¸¨¨Í……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¸½…ÁÁ€µÕÍĞÉ½ÕÑ”Ñ¼Ñ¡”…ÁÀ°¹½ĞÑ¼Ñ¡¥ÌÍ¥Ñ”¸(´€¨©	±½œ°½ÕÉÍ•Ì…¹Ñ¡”EÕ…¹Ğ1…ˆ¡½µ”¸¨¨M•ĞÑ¡•¥ÈUI1Ì¥¸1%9-M€İ¡•¸Ñ¡•ä•á¥ÍĞìÕ¹Ñ¥°Ñ¡•¸Ñ¡•äÍ¡½Ü…Ì€‰M½½¸ˆ¸(´€¨©M½¥…°ÁÉ•Ù¥•Ü¸¨¨½œé¥µ…•€ÕÍ•ÌÑ¡”…‰Í½±ÕÑ”UI0¡ÑÑÁÌè¼½Í……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¸½…ÍÍ•ÑÌ½¥µœ½½œµÍ……ÉÑ ¹©Á€°Í¼ÁÉ•Ù¥•İÌİ½É¬½¹”Ñ¡…Ğ¡½ÍÑ¹…µ”¥Ì±¥Ù”¸(´€¨©¹…±åÑ¥Ì…¹½½­¥•Ì¸¨¨Q¡•É”¥Ì¹¼…¹…±åÑ¥Ì°ÑÉ…­¥¹œ½È½½­¥”‰…¹¹•È¸=¹±äÑ¡”Ñ¡•µ”…¹µ½Ñ¥½¸¡½¥•Ì…É”ÍÑ½É•°¥¸Ñ¡”Ù¥Í¥Ñ½ÈÌ½İ¸‰É½İÍ•È¸(´€¨©9½Ñ¡¥¹œİ…ÌÁÕÍ¡•°‘•Á±½å•½ÈÁÕ‰±¥Í¡•°…¹9Lİ…Ì¹½ĞÑ½Õ¡•¸¨¨((ŒŒAÉ½‘ÕĞ±…¥µÌÑ¼½¹™¥É´()Q¡•Í”İ•É”¡•­•……¥¹ÍĞÅÕ…¹Ñ±…ˆµ½µÁ…ÍÍ€‘½Ì½!9=¹µ‘€…¹‘½Ì½É•ÅÕ¥É•µ•¹ÑÌ½™•…ÑÕÉ”µ‰…­±½œ¹µ‘€°É•…µ½¹±ä¸A±•…Í”½¹™¥É´Ñ¡”½¹•Ìµ…É­•€¨©½¹™¥É´¨¨‰•™½É”±…Õ¹ ¸((´€¨©M¡¥ÁÁ•Á•ÈÑ¡”‰…­±½œè¨¨(€€´¥µÁ½ÉÑÌè-¥Ñ”5@É•…µ½¹±äÍ¹…ÁÍ¡½Ğ°i•É½‘¡„½¹Í½±”™¥±•Ì°¡…¸ÍÑ…Ñ•µ•¹ÑÌ°•¹•É¥ŒMX…¹µ…¹Õ…°•¹ÑÉäì(€€´…¹…±åÍ¥ÌèÑ…à•ÍÑ¥µ…Ñ”İ¥Ñ d€ÈÀÈÔ´ÈØÉÕ±•Ì€£Š
-äÄ¸ÈÕ01Q•á•µÁÑ¥½¸¤°5½¹Ñ”…É±¼©½ÕÉ¹•åÌ°…¹Á½ÉÑ™½±¥¼Ù¥•İÌ½˜…½Õ¹ÑÌ°Í•Ñ½ÉÌ…¹½¹•¹ÑÉ…Ñ¥½¸ì(€€´É•Í•…É èÉÕ±”Ñ•µÁ±…Ñ•Ì°Ñ¡”Ù¥‘•¹”¡•¬°‰…­Ñ•ÍÑÌ…¹İ…±¬µ™½Éİ…É€¡AÉ¼µ…Ñ•¥¸Ñ¡”…ÁÀ¤ì(€€´İ…Ñ¡±¥ÍÑÌ¸(´€¨©½¹™¥É´Ñ¡”ÍÑ…ÑÕÌ±…‰•±Ì½¸Ñ¡”•…ÑÕÉ•ÌÁ…”è¨¨•… ™•…ÑÕÉ”¥Ìµ…É­•1¥Ù”°áÁ•É¥µ•¹Ñ…°½È9•áĞ¸	Õ¥±¥ÌÁÉ•Í•¹Ñ•…Ì•áÁ•É¥µ•¹Ñ…°Ñ¡É½Õ¡½ÕĞìÑ¡”‰…­±½œÌ±…Õ¹ Á½ÍÑÕÉ”…Ñ•ÌÁ…ÉÑÌ½˜	Õ¥±…Ì€‰½µ¥¹œÍ½½¸ˆ¸(´€¨©½¹™¥É´Á…Á•ÈÑÉ…‘¥¹œè¨¨Ñ¡”	Õ¥±¡…Ğ…¹Íİ•ÈÍ…åÌ¥Ğ€‰ÉÕ¹Ì„ÉÕ±”™½Éİ…Éİ¥Ñ Ù¥ÉÑÕ…°…Á¥Ñ…°ˆ¸Q¡”	Õ¥±ÁÉ½É•ÍÌÉ…¥°Í¡½İÌ¥Ğ…Ì€‰¹•áĞ°¥¸M……ÉÑ ˆ¸(´€¨©½¹™¥É´ÍÉ••¹Í¡½Ğ¥µÁ½ÉĞ¨¨ÕÍ¥¹œÑ¡”Ù¥Í¥Ñ½ÈÌ½İ¸$­•ä€¡	e=,¤¸Q¡”‰…­±½œ±¥ÍÑÌÍÑ…Ñ•µ•¹ĞÕÁ±½…ÁÉ•Ù¥•Ü…¹	e=,…ÍÍ¥ÍÑ¥Ù”$°‰ÕĞ¹½ĞÍÉ••¹Í¡½ĞÁ…ÉÍ¥¹œ‰ä¹…µ”¸(´€¨©½¹™¥É´¡…­É„±•…É¹¥¹œÉÕ±•Ì™É½´ÑÉ…‘•Ì…¹É•…Í½¹Ì¨¨€ ‰M••¸€Ì½˜€ÌÑ¥µ•Ìˆ°İ¥Ñ Ñ¡”Ù¥Í¥Ñ½È…ÁÁÉ½Ù¥¹œ•… ÉÕ±”¤¸Q¡¥Ì¥ÌÁÉ•Í•¹Ñ•…ÌÑ¡”Ù¥Í¥½¸¸Q¡”‰…­±½œ±¥ÍÑÌ©½ÕÉ¹…°…ÍÍ¥ÍÑ¥Ù”$İ¥Ñ 	e=,¸(´€¨©½¹™¥É´€‰¡…­É„ÌÉ½ÕÑ”ˆ¨¨€¡Á½ÉÑ™½±¥¼½ÁÑ¥µ¥Í…Ñ¥½¸Ñ½İ…É„½…°¤¸Q¡”‰…­±½œ±¥ÍÑÌÍÑÉ…Ñ•äµÁ…É…µ•Ñ•È½ÁÑ¥µ¥Í…Ñ¥½¸°¹½ĞÁ½ÉÑ™½±¥¼½ÁÑ¥µ¥Í…Ñ¥½¸¸(´€¨©½¹™¥É´Ñ¡”ÁÉ¥Ù…ä±¥¹•Ìè¨¨É•…µ½¹±ä‰É½­•È½¹¹•Ñ¥½¹Ì°Ñ¡”Í•ÍÍ¥½¸¡•±¥¸„Í•ÕÉ”½½­¥”°…¹É•µ½Ù¥¹œ…¸…½Õ¹Ğ…¹¥ÑÌ‘…Ñ„™É½´M•ÑÑ¥¹Ì¸(´€¨©½¹™¥É´ÁÉ¥¥¹œè¨¨€‰e½Ô…¸ÍÑ…ÉĞ™É•”¸••Á•È™•…ÑÕÉ•Ì…¹¡•…Ù¥•ÈÕÍ”½µ”İ¥Ñ Á…¥Á±…¹Ì¸ˆ(´€¨©½¹™¥É´µÕÑÕ…°™Õ¹‘Ìè¨¨±¥ÍÑ•…Ì¹•áĞ°İ¥Ñ Ñ½‘…äÌ™½ÕÌ½¸±¥ÍÑ•Í¡…É•Ì…¹QÌ¸(´€¨©I•Õ±…Ñ½Éä±•¹Ì€¡%¹‘¥„¤è¨¨ÉÕ¸Ñ¡”Á±…¹¹•M	$µ±•¹ÌÉ•Ù¥•Ü½˜Ñ¡”½Áä¸Q¡”Í¥Ñ”¥ÌİÉ¥ÑÑ•¸…ÌÉ•Í•…É °¹½Ğ…‘Ù¥”è¹¼Ñ¥ÁÌ°¹¼ÁÉ•‘¥Ñ¥½¹Ì°Á…ÍĞµ½¹‘¥Ñ¥½¹…°İ½É‘¥¹œ°…¹€‰¥±±ÕÍÑÉ…Ñ¥Ù”ˆ±…‰•±Ì½¸•Ù•ÉäÍ…µÁ±”¸((ŒŒ9½Ñ•Ì((´€¨©Q¡”ÁÉ•Ù¥½ÕÌ‘¥ÍĞ½€‘É…™Ğİ…ÌÉ•Ù¥•İ•…¹ÍÕÁ•ÉÍ•‘•è¨¨¥¹‘•à¹¡Ñµ±€…¹ÍÑå±•Ì¹ÍÍ€İ¥Ñ Õ¹½µµ¥ÑÑ••‘¥ÑÌ°ÍÉ¥ÁĞ¹©Í€°…¹…ÍÍ•ÑÌ½ÅÕ…¹ĞµÉ•Í•…É µ¡•É¼¹©Á€¸(€€´Q¡¥Ì‰Õ¹‘±”‘½•Í¸ĞÕÍ”Ñ¡”¡•É¼Á¡½Ñ¼°Í¼¹¼¥µ…”±¥•¹”¥Ì¹••‘•¸(€€´Ù•ÉäÙ¥ÍÕ…°¡•É”¥Ì‘É…İ¸¥¸½‘”°…Á…ÉĞ™É½´½œµÍ……ÉÑ ¹©Á€…¹Ñ¡”Ñ½Õ ¥½¸°İ¡¥ …É”ÍÉ••¹Í¡½ÑÌ½˜Ñ¡¥ÌÍ¥Ñ”¸(€€´Q¡”‘É…™Ğ™¥±•Ì¥¸Ñ¡”½‘•à™½±‘•Èİ•É”±•™ĞÕ¹Ñ½Õ¡•¸(´€¨©¡…­É„­••ÁÌ¥ÑÌ¹…µ”…¹¥Ì‘É…İ¸…Ì„Íµ…±°Í½±…ÈÍåÍÑ•´è¨¨(€€´Ñ¡”ÍÕ¸¥Ìå½ÕÈ½…°ì(€€´Á±…¹•ÑÌ…É”Ñ¡”ÉÕ±•Ìå½Ô­••Àì(€€´½µ•ÑÌ…É”Ñ¡”É•…Í½¹Ìå½Ô±½œ¸((€Q¡”½¸µÍ¥Ñ”¡…Ğ…¹Íİ•ÉÌ½¹±ä™É½´Ñ¡”™¥á•D¥¸Í¥Ñ”¹©Í€°…¹Í…åÌÍ¼¸(
+# Handoff
+
+## CTA destinations
+
+| Link | Where it appears | Destination | State |
+|---|---|---|---|
+| Open Saarth, Open the app | Header, hero, closing sections, footer, and the Features hero and closing | `https://saarth.thequantlab.in/app` | Needs the `/app` route to reach the app |
+| YouTube | Learn menu, footer | `https://youtube.com/@quantlab` | Live link; confirm the handle |
+| Blog | Learn menu, footer | none: shows **Soon** | Waiting for `blog.thequantlab.in` (Medium redirect) |
+| Courses | Learn menu, footer | none: shows **Soon** | Waiting for `courses.thequantlab.in` |
+| The Quant Lab: Home | Footer | none: shows **Soon** | Waiting for a Quant Lab home at `thequantlab.in` |
+| Features, All features | Header, Product menu, footer | `features.html` | In this bundle |
+| Product menu, footer and in-page links | Both pages | Sections of `index.html` (What if, Journey, Build, Chakra, Your portfolio, Grow and Build, What we won't do) | In this bundle |
+| Links inside Chakra's answers | Chat panel, on both pages | The section the answer refers to, on either page | In this bundle |
+
+The URLs live in `LINKS` at the top of `src/assets/js/site.js`. Rebuild with `npm run build` after changing one.
+
+## Still to configure (not done here)
+
+- **DNS and hosting.** Serve `dist/` at `saarth.thequantlab.in`, and decide whether `thequantlab.in` serves the same build or redirects to it. `.openai/hosting.json` is unchanged and already points at `dist`.
+- **The `/app` route.** `saarth.thequantlab.in/app` must route to the app, not to this site.
+- **Blog, courses and the Quant Lab home.** Set their URLs in `LINKS` when they exist; until then they show as "Soon".
+- **Social preview.** `og:image` uses the absolute URL `https://saarth.thequantlab.in/assets/img/og-saarth.jpg`, so previews work once that hostname is live.
+- **Analytics and cookies.** There is no analytics, tracking or cookie banner. Only the theme and motion choices are stored, in the visitor's own browser.
+- **Nothing was pushed, deployed or published, and DNS was not touched.**
+
+## Product claims to confirm
+
+These were checked against `quantlab-compass` `docs/HANDOFF.md` and `docs/requirements/feature-backlog.md`, read-only. Please confirm the ones marked **confirm** before launch.
+
+- **Shipped per the backlog:**
+  - imports: Kite MCP read-only snapshot, Zerodha Console files, Dhan statements, generic CSV and manual entry;
+  - analysis: tax estimate with FY 2025-26 rules (â‚¹1.25L LTCG exemption), Monte Carlo journeys, and portfolio views of accounts, sectors and concentration;
+  - research: rule templates, the Evidence check, backtests and walk-forward (Pro-gated in the app);
+  - watchlists.
+- **Confirm the status labels on the Features page:** each feature is marked Live, Experimental or Next. Build is presented as experimental throughout; the backlog's launch posture gates parts of Build as "Coming soon".
+- **Confirm paper trading:** the Build chat answer says it "runs a rule forward with virtual capital". The Build progress rail shows it as "next, in Saarth".
+- **Confirm screenshot import** using the visitor's own AI key (BYOK). The backlog lists statement upload preview and BYOK assistive AI, but not screenshot parsing by name.
+- **Confirm Chakra learning rules from trades and reasons** ("Seen 3 of 3 times", with the visitor approving each rule). This is presented as the vision. The backlog lists journal assistive AI with BYOK.
+- **Confirm "Chakra's route"** (portfolio optimisation toward a goal). The backlog lists strategy-parameter optimisation, not portfolio optimisation.
+- **Confirm the privacy lines:** read-only broker connections, the session held in a secure cookie, and removing an account and its data from Settings.
+- **Confirm pricing:** "You can start free. Deeper features and heavier use come with paid plans."
+- **Confirm mutual funds:** listed as next, with today's focus on listed shares and ETFs.
+- **Regulatory lens (India):** run the planned SEBI-lens review of the copy. The site is written as research, not advice: no tips, no predictions, past-conditional wording, and "illustrative" labels on every sample.
+
+## Notes
+
+- **The previous `dist/` draft was reviewed and superseded:** `index.html` and `styles.css` with uncommitted edits, `script.js`, and `assets/quant-research-hero.jpg`.
+  - This bundle doesn't use the hero photo, so no image licence is needed.
+  - Every visual here is drawn in code, apart from `og-saarth.jpg` and the touch icon, which are screenshots of this site.
+  - The draft files in the Codex folder were left untouched.
+- **Chakra keeps its name and is drawn as a small solar system:**
+  - the sun is your goal;
+  - planets are the rules you keep;
+  - comets are the reasons you log.
+
+  The on-site chat answers only from the fixed FAQ in `site.js`, and says so.

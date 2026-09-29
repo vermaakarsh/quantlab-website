@@ -1,1 +1,46 @@
-ýK®ÏÚ‘ªì‡üì…éïÖz,¹È_ŠW¨­Ø«yËh¯/Ô±êìý©®Èqªà£÷§¼¼¼	Õ¥±è…ÍÍ•µ‰±”ÍÉŒ½Á…•ÌÝ¥Ñ ÍÉŒ½Á…ÉÑ¥…±Ì¥¹Ñ¼‘¥ÍÐ¼°É•ÝÉ¥Ñ”±¥¹­Ì‰•ÑÝ••¸Ñ¡”ÑÝ¼Á…•Ì°(¼¼…¹½Áä…ÍÍ•ÑÌ…¹ÍÑ…Ñ¥Œ™¥±•Ì¸9½‘”€Äà¬°¹¼‘•Á•¹‘•¹¥•Ì¸€UÍ…”è¹Á´ÉÕ¸‰Õ¥±)¥µÁ½ÉÐìÉ•…‘¥±•Må¹Œ°ÝÉ¥Ñ•¥±•Må¹Œ°µ­‘¥ÉMå¹Œ°ÉµMå¹Œ°ÁMå¹Œ°É•…‘‘¥ÉMå¹Œô™É½´€‰¹½‘”é™Ìˆì)¥µÁ½ÉÐì©½¥¸ô™É½´€‰¹½‘”éÁ…Ñ ˆì)¥µÁ½ÉÐì™¥±•UI1Q½A…Ñ ô™É½´€‰¹½‘”éÕÉ°ˆì()½¹ÍÐÉ½½Ð€ô™¥±•UI1Q½A…Ñ ¡¹•ÜUI0 ˆ¸¸ˆ°¥µÁ½ÉÐ¹µ•Ñ„¹ÕÉ°¤¤ì)½¹ÍÐÍÉŒ€ô©½¥¸¡É½½Ð°€‰ÍÉŒˆ¤°½ÕÐ€ô©½¥¸¡É½½Ð°€‰‘¥ÍÐˆ¤ì)½¹ÍÐAL€ôl‰¥¹‘•à¹¡Ñµ°ˆ°€‰™•…ÑÕÉ•Ì¹¡Ñµ°‰tì)½¹ÍÐÁ…ÉÑ¥…°€ô¹…µ”€ôøÉ•…‘¥±•Må¹Œ¡©½¥¸¡ÍÉŒ°€‰Á…ÉÑ¥…±Ìˆ°€‘í¹…µ•ô¹¡Ñµ±€¤°€‰ÕÑ˜àˆ¤ì()ÉµMå¹Œ¡½ÕÐ°ìÉ•ÕÉÍ¥Ù”èÑÉÕ”°™½É”èÑÉÕ”ô¤ì)µ­‘¥ÉMå¹Œ¡½ÕÐ°ìÉ•ÕÉÍ¥Ù”èÑÉÕ”ô¤ì()½¹ÍÐ‰Õ¥±Ð€ôíôì)™½È€¡½¹ÍÐ™¥±”½˜AL¤ì(€±•Ð¡Ñµ°€ôÉ•…‘¥±•Må¹Œ¡©½¥¸¡ÍÉŒ°€‰Á…•Ìˆ°™¥±”¤°€‰ÕÑ˜àˆ¤ì(€½¹ÍÐÑ…œ€ô¡Ñµ°¹µ…Ñ  ¼ð„´´Á…”€¡qì¸¨ýqô¤€´´ùq¸ü½Ì¤ì(€¥˜€ …Ñ…œ¤Ñ¡É½Ü¹•ÜÉÉ½È¡€‘í™¥±•ôèµ¥ÍÍ¥¹œ€ð„´´Á…”ì¸¸¹ô€´´ø¡•…‘•É€¤ì(€½¹ÍÐµ•Ñ„€ô)M=8¹Á…ÉÍ”¡Ñ…lÅt¤ì(€¡Ñµ°€ô¡Ñµ°¹É•Á±…”¡Ñ…lÁt°€ˆˆ¤ì(€¡Ñµ°€ô¡Ñµ°¹É•Á±…” ¼ð„´´¥¹±Õ‘”€¡m„µèµt¬¤€´´ø½œ°€¡|°¹…µ”¤€ôøÁ…ÉÑ¥…°¡¹…µ”¤¤ì(€¡Ñµ°€ô¡Ñµ°¹É•Á±…” ½qíqì¡qÜ¬¥qõqô½œ°€¡|°­•ä¤€ôøì(€€€¥˜€ „¡­•ä¥¸µ•Ñ„¤¤Ñ¡É½Ü¹•ÜÉÉ½È¡€‘í™¥±•ôè¹¼Ù…±Õ”™½Èíì‘í­•åõõõ€¤ì(€€€É•ÑÕÉ¸µ•Ñ…m­•åt¹É•Á±…” ¼ˆ½œ°€ˆ™ÅÕ½Ðìˆ¤ì(€ô¤ì(€‰Õ¥±Ñm™¥±•t€ô¡Ñµ°ì)ô((¼¼%¸µÁ…”±¥¹­Ì€ ¥¤Ñ¡…ÐÁ½¥¹Ð…Ð„Í•Ñ¥½¸½¸Ñ¡”½Ñ¡•ÈÁ…”‰•½µ”É½ÍÌµÁ…”±¥¹­Ì¸)½¹ÍÐ¥‘Ì€ô=‰©•Ð¹™É½µ¹ÑÉ¥•Ì¡AL¹µ…À¡À€ôømÀ°¹•ÜM•Ð¡l¸¸¹‰Õ¥±ÑmÁt¹µ…Ñ¡±° ½q‰¥ôˆ¡mx‰t¬¤ˆ½œ¥t¹µ…À¡´€ôøµlÅt¤¥t¤¤ì)™½È€¡½¹ÍÐ™¥±”½˜AL¤ì(€½¹ÍÐ½Ñ¡•È€ôAL¹™¥¹¡À€ôøÀ€„ôô™¥±”¤ì(€‰Õ¥±Ñm™¥±•t€ô‰Õ¥±Ñm™¥±•t¹É•Á±…” ½¡É•˜ôˆŒ¡mqÜµt¬¤ˆ½œ°€¡µ…Ñ °¥¤€ôøì(€€€¥˜€¡¥‘Ím™¥±•t¹¡…Ì¡¥¤¤É•ÑÕÉ¸µ…Ñ ì(€€€¥˜€¡¥€ôôô€‰™•…ÑÕÉ•Ìˆ€˜˜™¥±”€„ôô€‰™•…ÑÕÉ•Ì¹¡Ñµ°ˆ¤É•ÑÕÉ¸€¡É•˜ô‰™•…ÑÕÉ•Ì¹¡Ñµ°ˆœì(€€€¥˜€¡¥‘Ím½Ñ¡•Ét¹¡…Ì¡¥¤¤É•ÑÕÉ¸¡É•˜ôˆ‘í½Ñ¡•ÉôŒ‘í¥‘ô‰€ì(€€€Ñ¡É½Ü¹•ÜÉÉ½È¡€‘í™¥±•ôè±¥¹¬Ñ¼€Œ‘í¥‘ô¡…Ì¹¼Ñ…É•Ð½¸•¥Ñ¡•ÈÁ…•€¤ì(€ô¤ì(€¥˜€ ½…ÁÁp¹Ñ¡•ÅÕ…¹Ñ±…‰p¹¥¸¼¹Ñ•ÍÐ¡‰Õ¥±Ñm™¥±•t¤¤Ñ¡É½Ü¹•ÜÉÉ½È¡€‘í™¥±•ôè…ÁÀ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¸µÕÍÐ¹•Ù•È‰”ÕÍ•‘€¤ì(€ÝÉ¥Ñ•¥±•Må¹Œ¡©½¥¸¡½ÕÐ°™¥±”¤°‰Õ¥±Ñm™¥±•t¤ì)ô()ÁMå¹Œ¡©½¥¸¡ÍÉŒ°€‰…ÍÍ•ÑÌˆ¤°©½¥¸¡½ÕÐ°€‰…ÍÍ•ÑÌˆ¤°ìÉ•ÕÉÍ¥Ù”èÑÉÕ”ô¤ì)™½È€¡½¹ÍÐ˜½˜É•…‘‘¥ÉMå¹Œ¡©½¥¸¡ÍÉŒ°€‰ÍÑ…Ñ¥Œˆ¤¤¤ÁMå¹Œ¡©½¥¸¡ÍÉŒ°€‰ÍÑ…Ñ¥Œˆ°˜¤°©½¥¸¡½ÕÐ°˜¤¤ì)½¹Í½±”¹±½œ¡	Õ¥±Ð€‘íAL¹©½¥¸ ˆ…¹€ˆ¥ô¥¹Ñ¼‘¥ÍÐ½€¤ì
+// Build: assemble src/pages with src/partials into dist/, rewrite links between the two pages,
+// and copy assets and static files. Node 18+, no dependencies.  Usage: npm run build
+import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync, readdirSync } from "node:fs";
+import { join } from "node:path";
+import { fileURLToPath } from "node:url";
+
+const root = fileURLToPath(new URL("..", import.meta.url));
+const src = join(root, "src"), out = join(root, "dist");
+const PAGES = ["index.html", "features.html"];
+const partial = name => readFileSync(join(src, "partials", `${name}.html`), "utf8");
+
+rmSync(out, { recursive: true, force: true });
+mkdirSync(out, { recursive: true });
+
+const built = {};
+for (const file of PAGES) {
+  let html = readFileSync(join(src, "pages", file), "utf8");
+  const tag = html.match(/<!-- @page (\{.*?\}) -->\n?/s);
+  if (!tag) throw new Error(`${file}: missing <!-- @page {...} --> header`);
+  const meta = JSON.parse(tag[1]);
+  html = html.replace(tag[0], "");
+  html = html.replace(/<!-- @include ([a-z-]+) -->/g, (_, name) => partial(name));
+  html = html.replace(/\{\{(\w+)\}\}/g, (_, key) => {
+    if (!(key in meta)) throw new Error(`${file}: no value for {{${key}}}`);
+    return meta[key].replace(/"/g, "&quot;");
+  });
+  built[file] = html;
+}
+
+// In-page links (#id) that point at a section on the other page become cross-page links.
+const ids = Object.fromEntries(PAGES.map(p => [p, new Set([...built[p].matchAll(/\bid="([^"]+)"/g)].map(m => m[1]))]));
+for (const file of PAGES) {
+  const other = PAGES.find(p => p !== file);
+  built[file] = built[file].replace(/href="#([\w-]+)"/g, (match, id) => {
+    if (ids[file].has(id)) return match;
+    if (id === "features" && file !== "features.html") return 'href="features.html"';
+    if (ids[other].has(id)) return `href="${other}#${id}"`;
+    throw new Error(`${file}: link to #${id} has no target on either page`);
+  });
+  if (/app\.thequantlab\.in/.test(built[file])) throw new Error(`${file}: app.thequantlab.in must never be used`);
+  writeFileSync(join(out, file), built[file]);
+}
+
+cpSync(join(src, "assets"), join(out, "assets"), { recursive: true });
+for (const f of readdirSync(join(src, "static"))) cpSync(join(src, "static", f), join(out, f));
+console.log(`Built ${PAGES.join(" and ")} into dist/`);

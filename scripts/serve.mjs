@@ -1,1 +1,23 @@
-ýK®ÏÚ‘ªì‡üì…éïÖz,¹È_ŠW¨­Ø«yËh¯/Ô±êìý©®Èqªà£÷§¼¼¼AÉ•Ù¥•ÜèÍ•ÉÙ”‘¥ÍÐ¼½¸¡ÑÑÀè¼½±½…±¡½ÍÐèÐÄÜÌ€¡A=IPÑ¼¡…¹”¤¸9½‘”€Äà¬°¹¼‘•Á•¹‘•¹¥•Ì¸)¥µÁ½ÉÐìÉ•…Ñ•M•ÉÙ•Èô™É½´€‰¹½‘”é¡ÑÑÀˆì)¥µÁ½ÉÐìÉ•…‘¥±”ô™É½´€‰¹½‘”é™Ì½ÁÉ½µ¥Í•Ìˆì)¥µÁ½ÉÐì©½¥¸°•áÑ¹…µ”°¹½Éµ…±¥é”ô™É½´€‰¹½‘”éÁ…Ñ ˆì)¥µÁ½ÉÐì™¥±•UI1Q½A…Ñ ô™É½´€‰¹½‘”éÕÉ°ˆì()½¹ÍÐÉ½½Ð€ô™¥±•UI1Q½A…Ñ ¡¹•ÜUI0 ˆ¸¸½‘¥ÍÐ¼ˆ°¥µÁ½ÉÐ¹µ•Ñ„¹ÕÉ°¤¤ì)½¹ÍÐÁ½ÉÐ€ô9Õµ‰•È¡ÁÉ½•ÍÌ¹•¹Ø¹A=IPñð€ÐÄÜÌ¤ì)½¹ÍÐÑåÁ•Ì€ôì€ˆ¹¡Ñµ°ˆè€‰Ñ•áÐ½¡Ñµ°ì¡…ÉÍ•ÐõÕÑ˜´àˆ°€ˆ¹ÍÌˆè€‰Ñ•áÐ½ÍÌì¡…ÉÍ•ÐõÕÑ˜´àˆ°€ˆ¹©Ìˆè€‰Ñ•áÐ½©…Ù…ÍÉ¥ÁÐì¡…ÉÍ•ÐõÕÑ˜´àˆ°€ˆ¹ÍÙœˆè€‰¥µ…”½ÍÙœ­áµ°ˆ°€ˆ¹Á¹œˆè€‰¥µ…”½Á¹œˆ°€ˆ¹Ý½™˜Èˆè€‰™½¹Ð½Ý½™˜Èˆ°€ˆ¹ÑáÐˆè€‰Ñ•áÐ½Á±…¥¸ì¡…ÉÍ•ÐõÕÑ˜´àˆ°€ˆ¹áµ°ˆè€‰…ÁÁ±¥…Ñ¥½¸½áµ°ì¡…ÉÍ•ÐõÕÑ˜´àˆôì()É•…Ñ•M•ÉÙ•È¡…Íå¹Œ€¡É•Ä°É•Ì¤€ôøì(€±•ÐÁ…Ñ €ô‘•½‘•UI%½µÁ½¹•¹Ð¡¹•ÜUI0¡É•Ä¹ÕÉ°°€‰¡ÑÑÀè¼½±½…±¡½ÍÐˆ¤¹Á…Ñ¡¹…µ”¤ì(€¥˜€¡Á…Ñ ¹•¹‘Í]¥Ñ  ˆ¼ˆ¤¤Á…Ñ €¬ô€‰¥¹‘•à¹¡Ñµ°ˆì(€½¹ÍÐ™¥±”€ô¹½Éµ…±¥é”¡©½¥¸¡É½½Ð°Á…Ñ ¤¤ì(€¥˜€ …™¥±”¹ÍÑ…ÉÑÍ]¥Ñ ¡É½½Ð¤¤ìÉ•Ì¹ÝÉ¥Ñ•!•… ÐÀÌ¤¹•¹ ¤ìÉ•ÑÕÉ¸ìô(€ÑÉäì(€€€½¹ÍÐ‰½‘ä€ô…Ý…¥ÐÉ•…‘¥±”¡™¥±”¤ì(€€€É•Ì¹ÝÉ¥Ñ•!•… ÈÀÀ°ì€‰½¹Ñ•¹ÐµÑåÁ”ˆèÑåÁ•Ím•áÑ¹…µ”¡™¥±”¥tñð€‰…ÁÁ±¥…Ñ¥½¸½½Ñ•ÐµÍÑÉ•…´ˆô¤¹•¹¡‰½‘ä¤ì(€ô…Ñ ì(€€€½¹ÍÐ‰½‘ä€ô…Ý…¥ÐÉ•…‘¥±”¡©½¥¸¡É½½Ð°€ˆÐÀÐ¹¡Ñµ°ˆ¤¤¹…Ñ   ¤€ôø€‰9½Ð™½Õ¹ˆ¤ì(€€€É•Ì¹ÝÉ¥Ñ•!•… ÐÀÐ°ì€‰½¹Ñ•¹ÐµÑåÁ”ˆèÑåÁ•Ílˆ¹¡Ñµ°‰tô¤¹•¹¡‰½‘ä¤ì(€ô)ô¤¹±¥ÍÑ•¸¡Á½ÉÐ°€ ¤€ôø½¹Í½±”¹±½œ¡M•ÉÙ¥¹œ‘¥ÍÐ¼…Ð¡ÑÑÀè¼½±½…±¡½ÍÐè‘íÁ½ÉÑõ€¤¤ì(
+// Preview: serve dist/ on http://localhost:4173 (PORT to change). Node 18+, no dependencies.
+import { createServer } from "node:http";
+import { readFile } from "node:fs/promises";
+import { join, extname, normalize } from "node:path";
+import { fileURLToPath } from "node:url";
+
+const root = fileURLToPath(new URL("../dist/", import.meta.url));
+const port = Number(process.env.PORT || 4173);
+const types = { ".html": "text/html; charset=utf-8", ".css": "text/css; charset=utf-8", ".js": "text/javascript; charset=utf-8", ".svg": "image/svg+xml", ".png": "image/png", ".woff2": "font/woff2", ".txt": "text/plain; charset=utf-8", ".xml": "application/xml; charset=utf-8" };
+
+createServer(async (req, res) => {
+  let path = decodeURIComponent(new URL(req.url, "http://localhost").pathname);
+  if (path.endsWith("/")) path += "index.html";
+  const file = normalize(join(root, path));
+  if (!file.startsWith(root)) { res.writeHead(403).end(); return; }
+  try {
+    const body = await readFile(file);
+    res.writeHead(200, { "content-type": types[extname(file)] || "application/octet-stream" }).end(body);
+  } catch {
+    const body = await readFile(join(root, "404.html")).catch(() => "Not found");
+    res.writeHead(404, { "content-type": types[".html"] }).end(body);
+  }
+}).listen(port, () => console.log(`Serving dist/ at http://localhost:${port}`));

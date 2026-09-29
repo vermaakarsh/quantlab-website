@@ -1,1 +1,24 @@
-ıK®ÏÚ‘ªì‡üì…éïÖz,¹È_ŠW¨­Ø«yËh¯/Ô±êìı©®Èqªà£÷§¼Œ%µÁ½ÉĞÉ•Ù¥•ÜƒŠP€ÈäM•ÁÑ•µ‰•È€ÈÀÈØ()Q¡¥ÌÉ•Á½Í¥Ñ½Éäİ…Ì¥µÁ½ÉÑ•™É½´Ñ¡”½İ¹•ÈµÍÕÁÁ±¥•ÅÕ…¹Ñ±…ˆµİ•‰Í¥Ñ”µ™¥¹…°¹é¥Á€…™Ñ•ÈÉ•Ù¥•Ü¸((ŒŒ%¹‘•Á•¹‘•¹Ñ±ä¡•­•((´É¡¥Ù”•¹ÑÉ¥•Ìİ•É”¡•­•™½ÈÁ…Ñ ÑÉ…Ù•ÉÍ…°…¹Íåµ±¥¹­Ì‰•™½É”•áÑÉ…Ñ¥½¸¸(´¹Á´ÉÕ¸‰Õ¥±‘€…¹¹½‘”€´µ¡•¬ÍÉŒ½…ÍÍ•ÑÌ½©Ì½Í¥Ñ”¹©Í€Á…ÍÌİ¥Ñ¡½ÕĞ¥¹ÍÑ…±±•‘•Á•¹‘•¹¥•Ì¸(´Q¡”ÍÕÁÁ±¥•‘¥ÍĞ½€½É¥¥¹…±±äµ…Ñ¡•„™É•Í ‰Õ¥±¸™Ñ•È½Áä¡…¹•Ì°‘¥ÍĞ½€İ…ÌÉ•‰Õ¥±Ğ™É½´Ñ¡”É•Ù¥•İ•Í½ÕÉ”¸(´%¹Ñ•É¹…°Á…”±¥¹­Ì…¹…ÍÍ•ÑÌÉ•Í½±Ù•¥¸Ñ¡”‰Õ¥±ì½Ù•ÉÙ¥•ÜµÑ¼µ™•…ÑÕÉ•Ì¹…Ù¥…Ñ¥½¸…¹„İ¡…Ğµ¥˜Í±¥‘•Èİ•É”•á•É¥Í•¥¸„‰É½İÍ•È¸(´I•ÍÁ½¹Í¥Ù”‘•Í­Ñ½À…¹µ½‰¥±”ÍÉ••¹Í¡½ÑÌÍÕÁÁ±¥•İ¥Ñ Ñ¡”…É¡¥Ù”İ•É”¥¹ÍÁ•Ñ•¸Q¡•ä…É”É•Ù¥•Ü…¥‘Ì°¹½ĞÁÉ½½˜½˜„‘•Á±½å•Í¥Ñ”¸((ŒŒAÉ½‘ÕĞµ½Áä½ÉÉ•Ñ¥½¹Ì()Q¡”ÍÕÁÁ±¥•Í¥Ñ”ÁÉ•Í•¹Ñ•Í½µ”ÁÉ½Á½Í•¡…­É„‰•¡…Ù¥½ÕÈ°Á•ÉÍ½¹…°½ÁÑ¥µ¥Í…Ñ¥½¸°Ñ…àµ…İ…É”‰…­Ñ•ÍÑ¥¹œ…¹ÁÉ¥¥¹œ…Ì±¥Ù”¸½Áä¹½Üµ…É­ÌÑ¡”ÍÉ¥ÁÑ•¡…­É„©½ÕÉ¹…°…¹Á±…¥¸µ±…¹Õ…”ÉÕ±”¥¹ÁÕĞ…Ì½¹•ÁÑÌ°±…‰•±ÌÍ¥µÕ±…Ñ•½µÁ…É¥Í½¹Ì…Ì¥±±ÕÍÑÉ…Ñ¥Ù”°‘¥ÍÑ¥¹Õ¥Í¡•ÌÙ¥ÉÑÕ…°Á…Á•È½É‘•ÉÌ™É½´‰É½­•È½É‘•ÉÌ°…¹…Ù½¥‘Ì…¸Õ¹Ù•É¥™¥•ÁÉ¥¥¹œÁÉ½µ¥Í”¸((ŒŒI•±•…Í”…Ñ•Ì((´Í……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¸½…ÁÁ€µÕÍĞÉ½ÕÑ”Ñ¼Ñ¡”ÁÉ½‘ÕÑ¥½¸…ÁÀ‰•™½É”1%9-L¹…ÁÁ€¥Ì•¹…‰±•¥¸ÍÉŒ½…ÍÍ•ÑÌ½©Ì½Í¥Ñ”¹©Í€…¹Ñ¡”=Á•¸M……ÉÑ QÌ‰•½µ”±¥¹­Ì¸(´Q¡”Í¥Ñ”¥Ì…¹½¹¥…±±äİÉ¥ÑÑ•¸™½ÈÍ……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€ìÉ•¥ÍÑ•È…¹Ù…±¥‘…Ñ”Ñ¡…Ğ¡½ÍÑ¹…µ”‰•™½É”ÑÉ•…Ñ¥¹œÑ¡”Í¥Ñ”…Ì„ÁÕ‰±¥Œ±…Õ¹ ¸(´Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€°‰±½œ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€°…¹½ÕÉÍ•Ì¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¹€¹••Ñ¡•¥È½İ¸™¥¹…°É½ÕÑ¥¹œ‘•¥Í¥½¹Ì¸	±½œ…¹½ÕÉÍ•ÌÉ•µ…¥¸M½½¸¥¸Ñ¡”Í¥Ñ”¸(´Q¡”ÕÉÉ•¹ĞM¥Ñ•ÌÁÉ½©•Ğµ…ä‰”‘•Á±½å•ÁÉ¥Ù…Ñ•±ä™½ÈÉ•Ù¥•ÜìÁÕ‰±¥Œ…•ÍÌ…¹9L…É”Í•Á…É…Ñ”É•±•…Í”…Ñ¥½¹Ì¸()Q¡”¥¹¡•É¥Ñ•YI%%¹µ‘€É•½É‘ÌÑ¡”½É¥¥¹…°Á…­…”…ÕÑ¡½ÈÌ¡•­Ì¸%Ğ¥Ì¹½ĞÑ¡”¥¹‘•Á•¹‘•¹Ğ•Ù¥‘•¹”…‰½Ù”¸(
+# Import review â€” 29 September 2026
+
+This repository was imported from the owner-supplied `quantlab-website-final.zip` after review.
+
+## Independently checked
+
+- Archive entries were checked for path traversal and symlinks before extraction.
+- `npm run build` and `node --check src/assets/js/site.js` pass without installed dependencies.
+- The supplied `dist/` originally matched a fresh build. After copy changes, `dist/` was rebuilt from the reviewed source.
+- Internal page links and assets resolved in the build; overview-to-features navigation and a what-if slider were exercised in a browser.
+- Responsive desktop and mobile screenshots supplied with the archive were inspected. They remain in the supplied ZIP rather than Git; they are review aids, not proof of a deployed site.
+
+## Product-copy corrections
+
+The supplied site presented some proposed Chakra behaviour, personal optimisation, tax-aware backtesting and pricing as live. Copy now marks the scripted Chakra journal and plain-language rule input as concepts, labels simulated comparisons as illustrative, distinguishes virtual paper orders from broker orders, and avoids an unverified pricing promise.
+
+## Release gates
+
+- `saarth.thequantlab.in/app` must route to the production app before `LINKS.app` is enabled in `src/assets/js/site.js` and the Open Saarth CTAs become links.
+- The site is canonically written for `saarth.thequantlab.in`; register and validate that hostname before treating the site as a public launch.
+- `thequantlab.in`, `blog.thequantlab.in`, and `courses.thequantlab.in` need their own final routing decisions. Blog and courses remain Soon in the site.
+- The current Sites project may be deployed privately for review; public access and DNS are separate release actions.
+
+The inherited `VERIFIED.md` records the original package author's checks. It is not the independent evidence above.

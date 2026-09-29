@@ -1,1 +1,65 @@
-ıK®ÏÚ‘ªì‡üì…éïÖz,¹È_ŠW¨­Ø«yËh¯/Ô±êìı©®Èqªà£÷§¼ŒY•É¥™¥•¥¹Ñ•É…Ñ¥½¹Ì()Q¡•Í”…É”Ñ¡”¥¹Ñ•É…Ñ¥½¹Ì$¡•­•½¸Ñ¡”‰Õ¥±Ğ‘¥ÍĞ½€½ÕÑÁÕĞ°Í•ÉÙ•±½…±±äİ¥Ñ ¹Á´ÉÕ¸ÁÉ•Ù¥•İ€°½¸€ÈäM•À€ÈÀÈØ¸)ÕÑ½µ…Ñ•¡•­Ìİ•É”ÉÕ¸¥¸¡É½µ¥Õ´€¡A±…åİÉ¥¡Ğ¤…Ğ€ÄĞĞÃ\äÀÀ½¸‘•Í­Ñ½À…¹€ÌäÃ\àĞĞ½¸µ½‰¥±”°¥¸‰½Ñ ‘…É¬…¹±¥¡ĞÑ¡•µ•Ì¸)$…±Í¼É•Ù¥•İ••Ù•ÉäÍÉ••¹Í¡½Ğ¥¸ÍÉ••¹Í¡½ÑÌ½€‰ä•å”¸((¨©I•ÍÕ±Ğè€ÜĞ½˜€ÜĞ…ÕÑ½µ…Ñ•¡•­ÌÁ…ÍÍ•¸¨¨()ğ%¹Ñ•É…Ñ¥½¸ğ]¡•É”¡•­•ğI•ÍÕ±Ğğ)ğ´´µğ´´µğ´´µğ)ğ=Ù•ÉÙ¥•Ü±½…‘Ìİ¥Ñ ¹¼•ÉÉ½ÉÌğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ½¹ÑÌ…É”Í•±˜µ¡½ÍÑ•…¹±½…ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ!•É¼Í¥µÕ±…Ñ•µÁ…Ñ¡Ì…¹Ù…Ì…¹¥µ…Ñ•Ìğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ¡…­É„Í½±…ÈÍåÍÑ•µÌÉ•¹‘•È€¡½Ù•ÉÙ¥•Ü¤ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğQ¡•µ”Ñ½±”Íİ¥Ñ¡•ÌÑ¡•µ”ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğAÉ½‘ÕĞµ•¹Ô½Á•¹Ì…¹Í…Á”±½Í•Ì¥Ğğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğAÉ½‘ÕĞµ•¹Ô©ÕµÁÌÑ¼)½ÕÉ¹•äğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ1•…É¸µ•¹Ôèe½ÕQÕ‰”±¥¹­•°½ÕÉÍ•Ì…¹	±½œµ…É­•M½½¸ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ]¡…Ğµ¥˜èÍ±¥‘•È…¹¥¹‘•àÍİ¥Ñ É•½µÁÕÑ”Ñ¡”¥µÁ…Ğğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ)½ÕÉ¹•äèM%@¡…¹•ÌÑ¡”½‘‘Ìì¡…­É‡ŠeÌÉ½ÕÑ”Í¡½İÌÑ¡”½ÍĞÑ¼µ½Ù”ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ	Õ¥±è…¸•á…µÁ±”ÉÕ±”É•‰Õ¥±‘ÌÑ¡”‰…­Ñ•ÍĞìİ…±¬µ™½Éİ…É½Á•¹Ìğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ)½ÕÉ¹…°è„É•…Í½¸¥ÌÍ…Ù•…¹„ÉÕ±”¥Ì­•ÁĞ€¡Ñ¡”‘¥…°½Õ¹ÑÌ‰½Ñ ¤ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğA½ÉÑ™½±¥¼Ù¥•İÌèÍİ¥Ñ¡¥¹œÑ¼Í•Ñ½ÉÌÉ”µ±…åÌÑ¡”µ…Àğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ¡…­É„¡…ĞèÍÑ…Ñ•ÌÍ¡½Ü1¥ÍÑ•¹¥¹œ°Ñ¡•¸Q¡¥¹­¥¹œ°İ¡¥±”¥Ğİ½É­Ìğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ¡…­É„¡…Ğè„İ¡…Ğµ¥˜¥Ìİ½É­•½ÕĞ™É½´Ñ¡”Dµ•Ñ¡½ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ¡…­É„¡…Ğè‰Õä½Í•±°ÅÕ•ÍÑ¥½¹Ì•ĞÑ¡”¹¼µÑ¥ÁÌ…¹Íİ•Èğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ¡…­É„¡…ĞèÕ¹­¹½İ¸ÅÕ•ÍÑ¥½¹Ì•ĞƒŠqİ½»ŠeĞÕ•ÍÏŠtğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğA…ÕÍ”µ½Ñ¥½¸ÍÑ½ÁÌÑ¡”¡•É¼…¹¥µ…Ñ¥½¸ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğÙ•ÉäƒŠq=Á•¸M……ÉÑ£Št±¥¹¬½•ÌÑ¼Í……ÉÑ ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¸½…ÁÀğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ9¼±¥¹¬ÕÍ•Ì…ÁÀ¹Ñ¡•ÅÕ…¹Ñ±…ˆ¹¥¸ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ=Ù•ÉÙ¥•Üµ…­•Ì¹¼É•ÅÕ•ÍÑÌ½ÕÑÍ¥‘”Ñ¡”Í¥Ñ”ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ9¼¡½É¥é½¹Ñ…°ÍÉ½±°…Ğ€ÄĞĞÁÁà€¡½Ù•ÉÙ¥•Ü¤ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ•…ÑÕÉ•ÌÁ…”±½…‘Ìİ¥Ñ ¹¼•ÉÉ½ÉÌğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ•…ÑÕÉ•Ìè¡…­É„Í½±…ÈÍåÍÑ•µÌÉ•¹‘•Èğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ•…ÑÕÉ•ÌèÑ¡”Í¥‘”µ‰äµÍ¥‘”©½ÕÉ¹•åÌÉ•Ù•…°…¹Ñ¡”ÍÁ¥¹”™¥±±Ìğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ•…ÑÕÉ•Ìè¥¹Ñ•É…Ñ¥½¹Ìµ…À‘É…İÌ¥ÑÌİ¥É•Ìğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ•…ÑÕÉ•Ìè¥ÑÌ½İ¸A…ÕÍ”µ½Ñ¥½¸½¹ÑÉ½°İ½É­Ìğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ•…ÑÕÉ•ÌèAÉ½‘ÕĞµ•¹Ô½Á•¹ÌÑ¡”½Ù•ÉÙ¥•Ü…Ğ]¡…Ğ¥˜ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ¡…­É„…¹Íİ•È½¸•…ÑÕÉ•Ì±¥¹­Ì…É½ÍÌÑ¼Ñ¡”½Ù•ÉÙ¥•Üğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ•…ÑÕÉ•Ìµ…­•Ì¹¼É•ÅÕ•ÍÑÌ½ÕÑÍ¥‘”Ñ¡”Í¥Ñ”ğ‘…É¬°±¥¡ĞğA…ÍÌğ)ğ¥¹‘•à¹¡Ñµ°è¹¼¡½É¥é½¹Ñ…°ÍÉ½±°…Ğ€ÌäÁÁàğµ½‰¥±”‘…É¬°µ½‰¥±”±¥¡ĞğA…ÍÌğ)ğ™•…ÑÕÉ•Ì¹¡Ñµ°è¹¼¡½É¥é½¹Ñ…°ÍÉ½±°…Ğ€ÌäÁÁàğµ½‰¥±”‘…É¬°µ½‰¥±”±¥¡ĞğA…ÍÌğ)ğ5•¹Ô½Á•¹Ì°AÉ½‘ÕĞ•áÁ…¹‘Ì¥¹±¥¹”°…¹¡½½Í¥¹œ	Õ¥±±½Í•ÌÑ¡”µ•¹Ôğµ½‰¥±”‘…É¬°µ½‰¥±”±¥¡ĞğA…ÍÌğ)ğ¡…­É„¡…Ğ½Á•¹Ì…Ì„Í¡••Ğğµ½‰¥±”‘…É¬°µ½‰¥±”±¥¡ĞğA…ÍÌğ)ğ9¼•ÉÉ½ÉÌğµ½‰¥±”‘…É¬°µ½‰¥±”±¥¡ĞğA…ÍÌğ)ğ!•É¼É•¹‘•ÉÌ½¹”ÍÑ¥±°™É…µ”…¹Í…åÌƒŠqA±…äµ½Ñ¥½»ŠtğÉ•‘Õ•µ½Ñ¥½¸ğA…ÍÌğ)ğ¥ÉÍĞQ…ˆÉ•…¡•ÌƒŠqM­¥ÀÑ¼½¹Ñ•¹ÓŠtğ­•å‰½…ÉğA…ÍÌğ)ğAÉ½‘ÕĞµ•¹Ô½Á•¹Ìİ¥Ñ ¹Ñ•ÈìÍ…Á”±½Í•Ì¥Ğ…¹É•ÑÕÉ¹Ì™½ÕÌğ­•å‰½…ÉğA…ÍÌğ)ğ½ÕÌ¥ÌÙ¥Í¥‰±”€¡…•¹Ğ½ÕÑ±¥¹”¤ğ­•å‰½…ÉğA…ÍÌğ((ŒŒ¡•­•‰ä•å”((´€¨©1…å½ÕĞ¸¨¨	½Ñ Á…•ÌÉ•¹‘•È¥¸‘…É¬…¹±¥¡ĞÑ¡•µ•Ì…Ğ‘•Í­Ñ½À…¹µ½‰¥±”İ¥‘Ñ¡Ì°İ¥Ñ ¹¼½Ù•É±…À½È±¥ÁÁ¥¹œ¸Q¡”™¥á•¡•…‘•È°Ñ¡”¡…­É„±…Õ¹¡•È…¹Ñ¡”¡…ĞÍ¡••Ğ…±°Í¥Ğ½ÉÉ•Ñ±ä¸(´€¨©¡…­É„Í½±…ÈÍåÍÑ•´¸¨¨%ÑÌÍÑ…Ñ•ÌÉ•…±•…É±ä…Ğ•Ù•ÉäÍ¥é”èÑ¡”€ÜÙÁà±…Õ¹¡•È°Ñ¡”€ØÑÁàµ½‰¥±”±…Õ¹¡•È…¹Ñ¡”€ĞÁÁà¡…Ğ…Ù…Ñ…È¸(€€´1¥ÍÑ•¹¥¹œè½É‰¥ÑÌ‘É…Ü¥¸¸(€€´Q¡¥¹­¥¹œè„±¥¹ĞÁ…ÍÍ•Ì‰•Ñİ••¸Á±…¹•ÑÌ¸(€€´]½É­¥¹œèÑ¡”‰•±Ğ…¹½µ•ÑÌÉ…”¸(€€´¹Íİ•É¥¹œèÑ¡”Á±…¹•ÑÌÅÕ¥­•¸¸(€€´1•…É¹•èÑ¡”ÍÕ¸ÑÕÉ¹Ì½±°„İ…É´±¥¡Ğ½•ÌÉ½Õ¹•… ½É‰¥Ğ°…¹‘ÕÍĞ™½ÉµÌÑ¡”¹•ÜÁ±…¹•Ğ¸(€€´9½ĞÍÕÉ”èÑ¡”ÍåÍÑ•´‘¥µÌ¸(´€¨©!½Ù•È„Á±…¹•Ğ¨¨½¸Ñ¡”½Ù•ÉÙ¥•ÜÑ¼É•…Ñ¡”ÉÕ±”¥ĞÍÑ…¹‘Ì™½È¸(´€¨©Q¥±Ğ¸¨¨Q¡”Á½¥¹Ñ•ÈÑ¥±ÑÌÑ¡”ÍåÍÑ•´¥¸Ñ¡”•…ÑÕÉ•Ì¡•É¼¸(´€¨©!•É¼…¹¥µ…Ñ¥½¸¸¨¨Q¡”Í¥µÕ±…Ñ•µÁ…Ñ¡Ì™¥•±…¹¥ÑÌ…ÁÑ¥½¸ÍÑ…ä±•¥‰±”‰•¡¥¹Ñ¡”¡•É¼Ñ•áĞ°…¹Ñ¡”±½Í¥¹œ™¥•±¥ÌÅÕ¥•Ñ•È¸(´€¨©½¹ÑÌ¸¨¨Q•áĞÕÍ•ÌÑ¡”Í•±˜µ¡½ÍÑ•™½¹ÑÌ°…¹ƒ‚’ã‚’û‚’Ã‚–7‚’”ÕÍ•Ì¹•¬•Ù…¹……É¤¸(´€¨©Q¡•µ”Ñ½±”¸¨¨Q¡”¹•ÜÑ¡•µ”İ¥Á•Ì…É½ÍÌÑ¡”Á…”¥¸„¥É±”™É½´Ñ¡”‰ÕÑÑ½¸°İ¡•É”Ñ¡”‰É½İÍ•ÈÍÕÁÁ½ÉÑÌÙ¥•ÜÑÉ…¹Í¥Ñ¥½¹Ì¸(
+# Verified interactions
+
+These are the interactions I checked on the built `dist/` output, served locally with `npm run preview`, on 29 Sep 2026.
+Automated checks were run in Chromium (Playwright) at 1440Ã—900 on desktop and 390Ã—844 on mobile, in both dark and light themes.
+I also reviewed every screenshot in `screenshots/` by eye.
+
+**Result: 74 of 74 automated checks passed.**
+
+| Interaction | Where checked | Result |
+|---|---|---|
+| Overview loads with no errors | dark, light | Pass |
+| Fonts are self-hosted and load | dark, light | Pass |
+| Hero simulated-paths canvas animates | dark, light | Pass |
+| Chakra solar systems render (overview) | dark, light | Pass |
+| Theme toggle switches theme | dark, light | Pass |
+| Product menu opens and Escape closes it | dark, light | Pass |
+| Product menu jumps to Journey | dark, light | Pass |
+| Learn menu: YouTube linked, Courses and Blog marked Soon | dark, light | Pass |
+| What-if: slider and index switch recompute the impact | dark, light | Pass |
+| Journey: SIP changes the odds; Chakraâ€™s route shows the cost to move | dark, light | Pass |
+| Build: an example rule rebuilds the backtest; walk-forward opens | dark, light | Pass |
+| Journal: a reason is saved and a rule is kept (the dial counts both) | dark, light | Pass |
+| Portfolio views: switching to sectors re-lays the map | dark, light | Pass |
+| Chakra chat: states show Listening, then Thinking, while it works | dark, light | Pass |
+| Chakra chat: a what-if is worked out from the FAQ method | dark, light | Pass |
+| Chakra chat: buy/sell questions get the no-tips answer | dark, light | Pass |
+| Chakra chat: unknown questions get â€œwonâ€™t guessâ€ | dark, light | Pass |
+| Pause motion stops the hero animation | dark, light | Pass |
+| Every â€œOpen Saarthâ€ link goes to saarth.thequantlab.in/app | dark, light | Pass |
+| No link uses app.thequantlab.in | dark, light | Pass |
+| Overview makes no requests outside the site | dark, light | Pass |
+| No horizontal scroll at 1440px (overview) | dark, light | Pass |
+| Features page loads with no errors | dark, light | Pass |
+| Features: Chakra solar systems render | dark, light | Pass |
+| Features: the side-by-side journeys reveal and the spine fills | dark, light | Pass |
+| Features: integrations map draws its wires | dark, light | Pass |
+| Features: its own Pause motion control works | dark, light | Pass |
+| Features: Product menu opens the overview at What if | dark, light | Pass |
+| Chakra answer on Features links across to the overview | dark, light | Pass |
+| Features makes no requests outside the site | dark, light | Pass |
+| index.html: no horizontal scroll at 390px | mobile dark, mobile light | Pass |
+| features.html: no horizontal scroll at 390px | mobile dark, mobile light | Pass |
+| Menu opens, Product expands inline, and choosing Build closes the menu | mobile dark, mobile light | Pass |
+| Chakra chat opens as a sheet | mobile dark, mobile light | Pass |
+| No errors | mobile dark, mobile light | Pass |
+| Hero renders one still frame and says â€œPlay motionâ€ | reduced motion | Pass |
+| First Tab reaches â€œSkip to contentâ€ | keyboard | Pass |
+| Product menu opens with Enter; Escape closes it and returns focus | keyboard | Pass |
+| Focus is visible (accent outline) | keyboard | Pass |
+
+## Checked by eye
+
+- **Layout.** Both pages render in dark and light themes at desktop and mobile widths, with no overlap or clipping. The fixed header, the Chakra launcher and the chat sheet all sit correctly.
+- **Chakra solar system.** Its states read clearly at every size: the 76px launcher, the 64px mobile launcher and the 40px chat avatar.
+  - Listening: orbits draw in.
+  - Thinking: a glint passes between planets.
+  - Working: the belt and comets race.
+  - Answering: the planets quicken.
+  - Learned: the sun turns gold, a warm light goes round each orbit, and dust forms the new planet.
+  - Not sure: the system dims.
+- **Hover a planet** on the overview to read the rule it stands for.
+- **Tilt.** The pointer tilts the system in the Features hero.
+- **Hero animation.** The simulated-paths field and its caption stay legible behind the hero text, and the closing field is quieter.
+- **Fonts.** Text uses the self-hosted fonts, and à¤¸à¤¾à¤°à¥à¤¥ uses Anek Devanagari.
+- **Theme toggle.** The new theme wipes across the page in a circle from the button, where the browser supports view transitions.
