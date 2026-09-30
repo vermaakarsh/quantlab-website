@@ -46,10 +46,11 @@ src/
   assets/fonts/                           woff2 files and OFL licences
   assets/img/                             social preview image and touch icon
   static/                                 favicon.svg, robots.txt, sitemap.xml and 404.html, copied to the dist/ root
-scripts/build.mjs                         build (also turns #links to the other page into cross-page links, and fails on app.thequantlab.in)
+scripts/build.mjs                         build (also turns #links to the other page into cross-page links)
 scripts/serve.mjs                         local preview server
 dist/                                     production output: deploy this folder
-.openai/hosting.json                      existing Sites project settings, unchanged (static directory: dist)
+.github/workflows/pages.yml              GitHub Actions build and Pages deployment from main
+.openai/hosting.json                      previous Sites preview settings, retained for reference
 screenshots/                              supplied ZIP only: visual QA captures, not tracked in Git
 ```
 
@@ -64,7 +65,7 @@ screenshots/                              supplied ZIP only: visual QA captures,
   - `blog`
   - `courses`
 
-  A destination set to `null` shows **Soon** and isn't a link. When blog, courses or the Quant Lab home go live, set their URL there and rebuild.
+  A destination set to `null` shows **Soon** and isn't a link. Saarth, blog, and courses remain disabled until their destinations exist.
 - **Themes.** Dark and light come from the same tokens in `site.css`, and each viewer's choice is remembered in their browser.
 - **Motion.** Everything animated respects Pause motion (on both pages) and the system's reduced-motion setting.
 
@@ -72,10 +73,9 @@ screenshots/                              supplied ZIP only: visual QA captures,
 
 | Hostname | What to serve |
 |---|---|
-| `saarth.thequantlab.in` | This `dist/` output: `/` is the overview and `/features.html` is the features page. This is the primary home for the site; canonical URLs, the sitemap and social tags point here. |
-| `saarth.thequantlab.in/app` | Reserved for the Saarth app. It is not part of this bundle. The "Open Saarth" buttons remain disabled until this path routes to a verified app deployment; then set `LINKS.app` in `src/assets/js/site.js` and rebuild. |
-| `thequantlab.in` | For now, the same `dist/` output, product-led, as the brief allows, or a redirect to `saarth.thequantlab.in`. The canonical tags keep search engines pointed at the saarth hostname either way. The footer's "The Quant Lab: Home" link waits for a real Quant Lab home page. |
-| `blog.thequantlab.in` | Later, a redirect to Medium. The footer and the Learn menu show Blog as **Soon** until it's set up. |
+| `thequantlab.in` | This `dist/` output, hosted on GitHub Pages. It is the canonical Saarth landing page. |
+| `saarth.thequantlab.in` | Reserved for separate Saarth content later. The landing page's Open Saarth buttons show **Soon** until this hostname is live; then set `LINKS.app` to `https://saarth.thequantlab.in/` and rebuild. |
+| `blog.thequantlab.in` | Reserved for later publication. Blog currently shows **Soon**. |
 | `courses.thequantlab.in` | Later. Courses shows as **Soon** until it's set up. |
 
-`app.thequantlab.in` is never used, and the build fails if it appears anywhere.
+There is no `/app` route in this website and no `app.thequantlab.in` dependency. `REVIEW.md` and `VERIFIED.md` record the earlier artifact review and retain historical URLs; this section supersedes their deployment map.

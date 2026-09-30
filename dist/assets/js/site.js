@@ -8,10 +8,10 @@ const $$ = (s, c = document) => [...c.querySelectorAll(s)];
 
 /* Destinations. null = not configured yet: rendered as "Soon", never as a live link. */
 const LINKS = {
-  app: null, // enable https://saarth.thequantlab.in/app only after routing is verified
+  app: null, // enable https://saarth.thequantlab.in/ when its separate site is live
   youtube: "https://youtube.com/@quantlab",
-  home: null,     // https://thequantlab.in once DNS is set
-  blog: null,     // https://blog.thequantlab.in (Medium redirect, later)
+  home: "https://thequantlab.in/",
+  blog: null, // enable when blog.thequantlab.in has a published destination
   courses: null   // https://courses.thequantlab.in (later)
 };
 
@@ -978,9 +978,9 @@ const ChakraApp = (() => {
     { id: "real", s: "principles", q: "Are the numbers on this page real?", a: "The portfolio is a sample with real NSE names, and the price histories are made up. They show how the tools work. They aren’t results or forecasts.", k: "real numbers sample fake demo synthetic data figures" },
     { id: "name", s: "meaning", q: "What does Saarth mean?", a: "Saarth means purposeful. The name also echoes sārathi, the charioteer who keeps a journey on course. Chakra is its wheel.", k: "saarth meaning name mean sarathi charioteer chakra wheel konark" },
     { id: "free", s: "close", q: "Is Saarth free?", a: "Public access and pricing have not been announced. Please check the app when it opens for the current availability and terms.", k: "free cost price pricing pay paid plan plans subscription charge money" },
-    { id: "start", s: "close", q: "How do I get started?", a: "When the app is available at saarth.thequantlab.in/app, open it and follow the sign-in instructions. This website’s interactive examples run locally in your browser and do not create an account.", k: "start started begin sign signup login open account how" },
+    { id: "start", s: "close", q: "How do I get started?", a: "Open Saarth from the link on this page. This website’s interactive examples run locally in your browser and do not create an account.", k: "start started begin sign signup login open account how" },
     { id: "phone", s: "top", q: "Can I use Saarth on my phone?", a: "Yes. Saarth runs in your phone’s browser, and every view is built to work on a small screen.", k: "phone mobile app android iphone ios" },
-    { id: "more", s: "close", q: "Where can I learn more?", a: "The Quant Lab’s YouTube channel explains the ideas behind Saarth. Courses and a blog are coming.", k: "learn youtube videos course courses blog read more" }
+    { id: "more", s: "close", q: "Where can I learn more?", a: "The Quant Lab’s YouTube channel explains the ideas behind Saarth. Courses are coming, and the blog is being prepared.", k: "learn youtube videos course courses blog read more" }
   ];
   // retrieval: a small keyword index, no generation
   const STOP = new Set("a an the is are am i me my mine you your it its of to in on for and or with what whats how do does did can could would should will be if this that there here about from at by as so any some much get got".split(" "));
