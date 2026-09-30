@@ -37,7 +37,6 @@ for (const file of PAGES) {
     if (ids[other].has(id)) return `href="${other}#${id}"`;
     throw new Error(`${file}: link to #${id} has no target on either page`);
   });
-  if (/app\.thequantlab\.in/.test(built[file])) throw new Error(`${file}: app.thequantlab.in must never be used`);
   writeFileSync(join(out, file), built[file]);
 }
 

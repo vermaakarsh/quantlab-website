@@ -4,11 +4,11 @@
 
 | Link | Where it appears | Destination | State |
 |---|---|---|---|
-| Open Saarth, Open the app | Header, hero, closing sections, footer, and the Features hero and closing | `https://saarth.thequantlab.in/app` | Needs the `/app` route to reach the app |
+| Open Saarth, Open the app | Header, hero, closing sections, footer, and the Features hero and closing | `https://saarth.thequantlab.in/` | Shows **Soon** until its separate site exists |
 | YouTube | Learn menu, footer | `https://youtube.com/@quantlab` | Live link; confirm the handle |
-| Blog | Learn menu, footer | none: shows **Soon** | Waiting for `blog.thequantlab.in` (Medium redirect) |
+| Blog | Learn menu, footer | none: shows **Soon** | Owner will publish its destination later |
 | Courses | Learn menu, footer | none: shows **Soon** | Waiting for `courses.thequantlab.in` |
-| The Quant Lab: Home | Footer | none: shows **Soon** | Waiting for a Quant Lab home at `thequantlab.in` |
+| The Quant Lab: Home | Footer | `https://thequantlab.in/` | Canonical landing page |
 | Features, All features | Header, Product menu, footer | `features.html` | In this bundle |
 | Product menu, footer and in-page links | Both pages | Sections of `index.html` (What if, Journey, Build, Chakra, Your portfolio, Grow and Build, What we won't do) | In this bundle |
 | Links inside Chakra's answers | Chat panel, on both pages | The section the answer refers to, on either page | In this bundle |
@@ -17,12 +17,12 @@ The URLs live in `LINKS` at the top of `src/assets/js/site.js`. Rebuild with `np
 
 ## Still to configure (not done here)
 
-- **DNS and hosting.** Serve `dist/` at `saarth.thequantlab.in`, and decide whether `thequantlab.in` serves the same build or redirects to it. `.openai/hosting.json` is unchanged and already points at `dist`.
-- **The `/app` route.** `saarth.thequantlab.in/app` must route to the app, not to this site.
-- **Blog, courses and the Quant Lab home.** Set their URLs in `LINKS` when they exist; until then they show as "Soon".
-- **Social preview.** `og:image` uses the absolute URL `https://saarth.thequantlab.in/assets/img/og-saarth.jpg`, so previews work once that hostname is live.
+- **DNS and hosting.** GitHub Actions builds `dist/` and deploys it to GitHub Pages for `thequantlab.in`. The older Sites preview remains separate.
+- **Saarth.** `saarth.thequantlab.in` is reserved for separate content later; there is no `/app` route or `app.thequantlab.in` dependency. Enable `LINKS.app` only once that site works.
+- **Blog and courses.** Both show "Soon" until their destinations are published. No subdomain redirects are part of this launch.
+- **Social preview.** `og:image` uses `https://thequantlab.in/assets/img/og-saarth.jpg`.
 - **Analytics and cookies.** There is no analytics, tracking or cookie banner. Only the theme and motion choices are stored, in the visitor's own browser.
-- **Nothing was pushed, deployed or published, and DNS was not touched.**
+- **The review history below is from the original archive.** Check the latest PR, Pages run, and DNS status for current deployment evidence.
 
 ## Product claims to confirm
 
