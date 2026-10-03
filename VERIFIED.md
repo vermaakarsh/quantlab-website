@@ -1,3 +1,27 @@
+# Verified
+
+## Saarthi redesign (October 2026)
+
+Checked against the built `dist/`, served by `npm run preview`, in Chromium with Playwright.
+
+| Check | Where | Result |
+|---|---|---|
+| Both pages build; no console errors or page errors | desktop 1440, mobile 390; dark and light | Pass |
+| No horizontal scroll | mobile 390, both pages | Pass |
+| Unused CSS removed with no visual change: full-page screenshots before and after compared pixel by pixel | both pages, dark and light, desktop and mobile | Pass, 0 pixels differ |
+| Theme switch while the page is open: panel, dashboards and charts recolour | landing, dark to light | Pass |
+| Saarthi follows each section and runs Thinks, Works, Answers, Your call, Acts | both pages | Pass |
+| Your call: a choice acts (journal entry, review date, another test); a tip request is declined | both pages | Pass |
+| Workbench recomputes on rule, stock and slider changes; walk-forward and paper views follow the same rule | landing and features | Pass |
+| Journal flow: a reason saves to the journal; a kept pattern appears under Rules | features | Pass |
+| Phone: Saarthi sits under the header and opens as a sheet below it | both pages | Pass |
+
+Not checked here: Safari, Firefox, screen readers, and the live Pages deployment.
+
+## Earlier review (original archive)
+
+The table below records the original package's checks. It describes sections that have since been replaced (Chakra, What if, Journey, the side-by-side journeys) and is kept as history.
+
 # Verified interactions
 
 These are the interactions I checked on the built `dist/` output, served locally with `npm run preview`, on 29 Sep 2026.

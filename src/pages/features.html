@@ -5,7 +5,7 @@
 <main id="features" class="fpage" aria-labelledby="f-title">
   <section class="f-hero" id="f-top">
     <div class="f-dots" aria-hidden="true"></div>
-    <div class="k3d kx-full" id="k3d" data-chakra="full" data-beads="30" data-lit="5" aria-hidden="true"></div>
+    <figure class="f-bt" id="f-bt" aria-hidden="true"><div class="f-bt-vis"></div><figcaption>Illustrative backtest on generated prices: a rule after charges against just holding.</figcaption></figure>
     <div class="shell">
       <p class="q">What can Saarth do today, and what’s next?</p>
       <h1 class="display f-title" id="f-title">Grow what you have.<br><span class="soft">Build what’s next.</span></h1>
@@ -16,71 +16,64 @@
     </div>
   </section>
 
-  <section class="section tight" id="f-integrations" aria-labelledby="fi-title">
-    <div class="shell">
-      <div class="sec-head">
-        <p class="q">Where does your money actually live?</p>
-        <h2 id="fi-title">Bring data in from anywhere you invest.</h2>
-        <p class="sec-sub">Broker connectors, statement files and APIs flow into one combined portfolio. Every connection is read-only, and everything else on this page starts here.</p>
-      </div>
-      <div class="imap panel ticked" id="imap">
-        <svg class="wires" id="wires" aria-hidden="true"></svg>
-        <div class="src" id="src">
-          <div class="src-i" data-w="flow"><span>Zerodha Kite<small>MCP server, read-only snapshot</small></span><span class="st live"><i></i>Live</span></div>
-          <div class="src-i" data-w="flow"><span>Zerodha Console<small>CSV and XLSX exports</small></span><span class="st live"><i></i>Live</span></div>
-          <div class="src-i" data-w="flow"><span>Dhan<small>Statement CSV</small></span><span class="st live"><i></i>Live</span></div>
-          <div class="src-i" data-w="flow"><span>Any broker<small>A CSV, or add holdings by hand</small></span><span class="st live"><i></i>Live</span></div>
-          <div class="src-i" data-w="flow"><span>Screenshots<small>Read with your own AI key</small></span><span class="st live"><i></i>Live</span></div>
-          <div class="src-i next" data-w="next"><span>Other brokers’ MCP servers<small>Bring your broker’s own connector</small></span><span class="st next"><i></i>Next</span></div>
-          <div class="src-i next" data-w="next"><span>Saarth API<small>Send data in from your own tools</small></span><span class="st next"><i></i>Next</span></div>
-        </div>
-        <div class="hub" id="hub"><span class="hub-mark"><svg viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M3 21.5c4.5-.3 7-2.6 12-3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" opacity=".55"/><path d="M15 18 29 7.5M15 18h14M15 18l14 10" stroke="var(--accent)" stroke-width="1.6" stroke-linecap="round"/><circle cx="15" cy="18" r="2.6" fill="var(--accent)"/></svg></span><b>Saarth</b><small>One portfolio</small></div>
-        <div class="outs" id="outs">
-          <div class="out-i"><b>Combined view</b><small>Every account, one line per stock</small></div>
-          <div class="out-i"><b>What if and Journey</b><small>Scenarios and routes on real holdings</small></div>
-          <div class="out-i"><b>Decision journal</b><small>Record the reason behind a decision</small></div>
-          <div class="out-i"><b>Build</b><small>Test ideas on the stocks you own</small></div>
-        </div>
-      </div>
-      <p class="fine" style="margin-top:14px">MCP, the Model Context Protocol, is a standard way for apps to talk to a service’s own connector. Saarth uses it to read holdings, and only to read them.</p>
-    </div>
-  </section>
+  <!-- From here, Saarthi works beside the page -->
+  <div class="duo sx" id="sx-f">
+    <div class="duo-main">
 
-  <section class="section tight" id="f-timeline" aria-labelledby="ft-title">
-    <div class="shell">
-      <div class="sec-head">
-        <p class="q">What happens after your data is in?</p>
-        <h2 id="ft-title">Two journeys, side by side.</h2>
-        <p class="sec-sub">Grow, on the left, is about what you already own. Build, on the right, is about what you might do next. At every step, each has its own tools.</p>
-      </div>
-      <div class="dt" id="dt">
-        <div class="dt-head" aria-hidden="true"><div class="dt-h grow"><b>Grow</b><span>Understand what you own</span><span class="status"><i class="dot dot-live"></i>Live</span></div><div></div><div class="dt-h build"><b>Build</b><span>Test what you might do next</span><span class="status"><i class="dot dot-exp"></i>Experimental</span></div></div>
-        <div class="dt-spine" aria-hidden="true"><span class="dt-fill" id="dt-fill"></span></div>
-        <ol class="dt-list" id="dt-list"></ol>
-      </div>
-    </div>
-  </section>
+      <section class="sx-sub sx-first" id="f-integrations" data-run="integrations" data-topic="import" aria-labelledby="fi-title">
+        <div class="sx-sub-h"><span class="sx-n">Bring it in</span><h3 id="fi-title">Bring data in from anywhere you invest.</h3>
+          <p class="sx-line">Your money is spread across brokers, apps and files. Saarth pulls it into one portfolio, read-only.</p></div>
+        <div class="panel ig" id="ig">
+          <svg class="ig-wires" id="ig-wires" aria-hidden="true"></svg>
+          <div class="ig-src" id="ig-src"></div>
+          <div class="ig-hub" id="ig-hub"><span class="ig-mark"><svg viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M3 21.5c4.5-.3 7-2.6 12-3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" opacity=".55"/><path d="M15 18 29 7.5M15 18h14M15 18l14 10" stroke="var(--accent)" stroke-width="1.6" stroke-linecap="round"/><circle cx="15" cy="18" r="2.6" fill="var(--accent)"/></svg></span><b>One portfolio</b><small>Read-only</small></div>
+          <div class="ig-out" id="ig-out"></div>
+        </div>
+      </section>
 
-  <section class="section tight" id="f-chakra" aria-labelledby="fk-title">
-    <div class="shell fk">
-      <div class="fk-loop" aria-hidden="true">
-        <svg class="fk-ring" viewBox="0 0 100 100"><circle class="fk-track" cx="50" cy="50" r="46"/><circle class="fk-comet" cx="50" cy="50" r="46" pathLength="100"/><path class="fk-arrow" d="M-1.2 -1.4 0 0 -1.2 1.4" transform="translate(96.00 50.00) rotate(90)"/><path class="fk-arrow" d="M-1.2 -1.4 0 0 -1.2 1.4" transform="translate(50.00 96.00) rotate(180)"/><path class="fk-arrow" d="M-1.2 -1.4 0 0 -1.2 1.4" transform="translate(4.00 50.00) rotate(270)"/><path class="fk-arrow" d="M-1.2 -1.4 0 0 -1.2 1.4" transform="translate(50.00 4.00) rotate(360)"/></svg>
-        <div class="fk-wheel kx-full" data-chakra="full" data-beads="30" data-lit="4" data-zoom="1.3" data-ghosts="1"></div>
-        <span class="fk-st" style="left:17.47%;top:17.47%;--d:-3.375s">A trade<small>in Grow</small></span><span class="fk-st" style="left:82.53%;top:17.47%;--d:-1.125s">The reason you give</span><span class="fk-st" style="left:82.53%;top:82.53%;--d:-7.875s">A rule you keep</span><span class="fk-st" style="left:17.47%;top:82.53%;--d:-5.625s">A test<small>in Build</small></span>
-      </div>
-      <div class="fk-copy">
-        <p class="q">Where do the two journeys meet?</p>
-        <h2 id="fk-title">Chakra is the next turn of the wheel.</h2>
-        <p class="sec-sub">The vision: connect the decisions you record in Grow to testable ideas in Build. The interaction here is a scripted concept demo, not a feature available in the app today.</p>
-        <ul class="fk-list">
-          <li><b>Start with your reasons</b><span>Keep a record of the decisions behind your holdings.</span></li>
-          <li><b>Imagine readable rules</b><span>A future assistant could make patterns clear enough to test.</span></li>
-          <li><b>Stay in control</b><span>The concept keeps approval with you, never a recommendation.</span></li>
-        </ul>
-        <div class="actions"><button class="btn btn-ghost" type="button" data-open-chakra data-ask="Is Chakra an AI that decides for me?">Ask about the concept</button></div>
-      </div>
+      <section class="sx-sub" id="journal" data-run="journal" data-topic="journal" aria-labelledby="journal-title">
+        <div class="sx-sub-h"><span class="sx-n">Keep the reason</span><h3 id="journal-title">Keep the reason, not just the result.</h3>
+          <ul class="sx-feats"><li><i class="dot dot-live"></i>A dated journal with a review date</li><li><i class="dot dot-live"></i>Imported trades become entries that ask you why</li><li><i class="dot dot-next"></i>Saarthi spots a pattern and offers it as a rule</li></ul></div>
+        <div class="jt panel" id="jt"></div>
+        <div class="jb panel" id="jb">
+          <div class="jb-stats"><div><b id="jb-reasons">18</b><span>reasons logged this year</span></div><div><b id="jb-rules">1</b><span id="jb-rules-l">rule kept</span></div></div>
+          <div class="jb-tabs" role="tablist"><button type="button" role="tab" data-t="journal" aria-selected="true">Journal</button><button type="button" role="tab" data-t="rules" aria-selected="false">Rules</button></div>
+          <div class="jb-list" id="jb-journal"></div>
+          <div class="jb-list" id="jb-rulelist" hidden></div>
+        </div>
+      </section>
+
+      <section class="sx-sub" id="f-auto" data-run="auto" aria-labelledby="fa-title">
+        <div class="sx-sub-h"><span class="sx-n">Portfolio management</span><h3 id="fa-title">On rules you set.</h3>
+          <ul class="sx-feats"><li><i class="dot dot-next"></i>Targets, limits and review dates for each sleeve</li><li><i class="dot dot-next"></i>A plan back to your own targets when something drifts</li><li><i class="dot dot-live"></i>Nothing ever reaches your broker</li></ul></div>
+        <div class="ap">
+          <div class="panel ap-rules"><h4>Your rules</h4><ul id="ap-rules"></ul></div>
+          <div class="panel ap-feed"><h4>This week</h4><div id="ap-feed"></div><div class="ap-plan" id="ap-plan" hidden></div></div>
+        </div>
+      </section>
+
+      <section class="sx-sub" id="f-strategy" data-run="strategy" data-topic="build describe unseen paper" aria-labelledby="fs-title">
+        <div class="sx-sub-h"><span class="sx-n">Strategy builder</span><h3 id="fs-title">From an idea to a rehearsal.</h3>
+          <ul class="sbl" id="sb-list"></ul></div>
+        <div id="fs-lab"></div>
+        <div class="panel strat" id="fs-strat">
+          <div class="st-head"><div><h4>Your strategies</h4><span class="note">Press a stage to move it along. Open one to load it above.</span></div><button class="btn btn-ghost btn-sm st-save" type="button">Save the rule above</button></div>
+          <div class="st-rows"></div>
+        </div>
+      </section>
+
+      <section class="sx-sub" id="f-signals" data-run="signals" data-topic="whatif" aria-labelledby="fsg-title">
+        <div class="sx-sub-h"><span class="sx-n">Insights and signals</span><h3 id="fsg-title">What moved, and what it means for you.</h3>
+          <ul class="sx-feats"><li><i class="dot dot-live"></i>Discover, watchlists and leaders against NIFTY 50</li><li><i class="dot dot-next"></i>Signals from your own rules and limits</li><li><i class="dot dot-live"></i>Turned into a what-if, a test or a note, never a tip</li></ul></div>
+        <div class="mk">
+          <div class="panel mk-ins"><h4>This week in the market</h4><div class="vz" id="mk-sectors"></div><div class="mk-breadth" id="mk-breadth"></div></div>
+          <div class="panel mk-sig"><h4>Signals for you</h4><div id="mk-feed"></div></div>
+        </div>
+      </section>
+
     </div>
-  </section>
+    <div class="duo-side" id="saarthi"></div>
+  </div>
 
   <section class="section closing f-close" id="f-close" aria-labelledby="fc-title">
     <div class="shell close-grid">
@@ -95,5 +88,4 @@
 
 <!-- @include footer -->
 
-<!-- @include chakra -->
 <!-- @include scripts -->

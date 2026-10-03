@@ -2,18 +2,19 @@
 
 This is the static marketing site for Saarth, The Quant Lab's investing research workspace. It has two pages:
 
-- `index.html`: the overview. It covers the hero, What if, Journey, Build, a scripted Chakra concept, the decision journal, your portfolio, the name, and the closing section.
-- `features.html`: what Saarth does today and what's next. It covers integrations, Grow and Build side by side, and the future Chakra concept.
+- `index.html`: the overview. The hero, the opening questions, then Grow (Accounts, Goals, Sleeves) and Build (Describe and test, Check and rehearse, Manage strategies), what Saarth won't do, the name, and the closing section.
+- `features.html`: what Saarth does today and what's next. Bring it in, Keep the reason, Portfolio management, Strategy builder, and Insights and signals.
 
-There is no backend. Every demo runs in the browser on illustrative sample data, and nothing is sent anywhere. The scripted Chakra journal interaction and plain-language rule input are concepts, not current app features.
+From the opening questions on, **Saarthi** (the guide inside Saarth) sits beside the page in a pinned panel. It follows each section, explains what is on screen, and ends answers with *Your call*: options it lays out without picking one.
+
+There is no backend. Every demo runs in the browser on a sample portfolio or on generated prices, and nothing is sent anywhere. Saarthi's answers are scripted from what Saarth does today; it is not live AI. Pattern spotting in the journal, automated portfolio management, signals and plain-language rules are marked as next, not current app features.
 
 ## Stack
 
 - **Plain HTML, CSS and JavaScript, with no framework and no runtime dependencies.**
 - **Canvas and SVG** for the animations:
-  - the simulated-paths field in the hero;
-  - the Chakra solar system;
-  - the charts.
+  - the simulated-paths field in the hero and closing;
+  - the dashboards and charts beside Saarthi.
 - **Self-hosted fonts.** The four families are under the SIL Open Font License 1.1, and each licence file sits next to its fonts in `assets/fonts/`:
 
   | Family | Used for |
@@ -40,9 +41,15 @@ There is nothing to install. `package-lock.json` is included, but the package ha
 ```
 src/
   pages/index.html, pages/features.html   page bodies, each with a small @page JSON header (title, description, canonical)
-  partials/                               head, header, footer, the Chakra chat, and scripts, shared by both pages
-  assets/css/site.css                     all styles; theme tokens are at the top, fonts right after them
-  assets/js/site.js                       all behaviour, shared by both pages; modules run only where their section exists
+  partials/                               head, header, footer and scripts, shared by both pages
+  assets/css/site.css                     base styles; theme tokens are at the top, fonts right after them
+  assets/css/sx.css                       Saarthi's panel, the dashboards and the workbench (sp-, wb-, dash-, sx- prefixes)
+  assets/js/site.js                       links, theme, motion, the simulated-paths field, header and menus
+  assets/js/sx-saarthi.js                 Saarthi's scripted answers (KB), navigation, the glyph's wave and chart tips
+  assets/js/sx-panel.js                   the pinned panel: runs, the Thinks to Acts rail, Your call and acting
+  assets/js/sx-viz.js                     charts Saarthi shows in its answers
+  assets/js/sx-workbench.js               Grow dashboard, goals, sleeves, and the Build workbench (a real backtest on generated prices)
+  assets/js/sx-pages.js                   wires each page's sections to Saarthi
   assets/fonts/                           woff2 files and OFL licences
   assets/img/                             social preview image and touch icon
   static/                                 favicon.svg, robots.txt, sitemap.xml and 404.html, copied to the dist/ root
@@ -57,7 +64,7 @@ screenshots/                              supplied ZIP only: visual QA captures,
 ## Editing notes
 
 - **Copy** lives in `src/pages/*.html`.
-- **Chakra's FAQ answers** are the `FAQ` list inside `ChakraApp` in `site.js`. Every chat answer comes from that list; nothing is generated.
+- **Saarthi's answers** are the `KB` list in `sx-saarthi.js`, matched by pattern. Questions asking for tips or predictions get the no-tips answer. Each section's narration lives in `sx-pages.js` (`PANEL_SCRIPTS`), and the options under *Your call* are in `DECIDE` in `sx-panel.js`.
 - **Destinations** are set in `LINKS` near the top of `site.js`:
   - `app`
   - `youtube`
@@ -67,7 +74,7 @@ screenshots/                              supplied ZIP only: visual QA captures,
 
   A destination set to `null` shows **Soon** and isn't a link. Saarth, blog, and courses remain disabled until their destinations exist.
 - **Themes.** Dark and light come from the same tokens in `site.css`, and each viewer's choice is remembered in their browser.
-- **Motion.** Everything animated respects Pause motion (on both pages) and the system's reduced-motion setting.
+- **Motion.** Everything animated, including Saarthi's panel, respects the one Pause motion switch and the system's reduced-motion setting.
 
 ## Hostnames
 

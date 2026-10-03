@@ -10,8 +10,8 @@
 | Courses | Learn menu, footer | none: shows **Soon** | Waiting for `courses.thequantlab.in` |
 | The Quant Lab: Home | Footer | `https://thequantlab.in/` | Canonical landing page |
 | Features, All features | Header, Product menu, footer | `features.html` | In this bundle |
-| Product menu, footer and in-page links | Both pages | Sections of `index.html` (What if, Journey, Build, Chakra, Your portfolio, Grow and Build, What we won't do) | In this bundle |
-| Links inside Chakra's answers | Chat panel, on both pages | The section the answer refers to, on either page | In this bundle |
+| Product menu, footer and in-page links | Both pages | Sections of `index.html` (Accounts, Goals, Sleeves, Build, Strategies, What we won't do) and `features.html#journal` | In this bundle |
+| Show me on the page | Saarthi's panel, on both pages | The section an answer refers to | In this bundle |
 
 The URLs live in `LINKS` at the top of `src/assets/js/site.js`. Rebuild with `npm run build` after changing one.
 
@@ -36,8 +36,9 @@ These were checked against `quantlab-compass` `docs/HANDOFF.md` and `docs/requir
 - **Confirm the status labels on the Features page:** each feature is marked Live, Experimental or Next. Build is presented as experimental throughout; the backlog's launch posture gates parts of Build as "Coming soon".
 - **Confirm paper trading:** the Build chat answer says it "runs a rule forward with virtual capital". The Build progress rail shows it as "next, in Saarth".
 - **Confirm screenshot import** using the visitor's own AI key (BYOK). The backlog lists statement upload preview and BYOK assistive AI, but not screenshot parsing by name.
-- **Confirm Chakra learning rules from trades and reasons** ("Seen 3 of 3 times", with the visitor approving each rule). This is presented as the vision. The backlog lists journal assistive AI with BYOK.
-- **Confirm "Chakra's route"** (portfolio optimisation toward a goal). The backlog lists strategy-parameter optimisation, not portfolio optimisation.
+- **Confirm Saarthi spotting patterns in reasons** ("Seen 3 of 3 times", with the visitor approving each rule). It is marked next and labelled a concept. The backlog lists journal assistive AI with BYOK.
+- **Confirm portfolio optimisation** ("Compare a different mix", marked experimental). The backlog lists strategy-parameter optimisation, not portfolio optimisation.
+- **Confirm the new next items:** automated portfolio management on the visitor's own targets (plans only; nothing reaches a broker) and signals from the visitor's own rules, limits and watchlist.
 - **Confirm the privacy lines:** read-only broker connections, the session held in a secure cookie, and removing an account and its data from Settings.
 - **Confirm pricing:** "You can start free. Deeper features and heavier use come with paid plans."
 - **Confirm mutual funds:** listed as next, with today's focus on listed shares and ETFs.
@@ -49,9 +50,6 @@ These were checked against `quantlab-compass` `docs/HANDOFF.md` and `docs/requir
   - This bundle doesn't use the hero photo, so no image licence is needed.
   - Every visual here is drawn in code, apart from `og-saarth.jpg` and the touch icon, which are screenshots of this site.
   - The draft files in the Codex folder were left untouched.
-- **Chakra keeps its name and is drawn as a small solar system:**
-  - the sun is your goal;
-  - planets are the rules you keep;
-  - comets are the reasons you log.
-
-  The on-site chat answers only from the fixed FAQ in `site.js`, and says so.
+- **Saarthi replaces Chakra.** Saarthi (सारथी, the charioteer) is the guide inside Saarth. On the site it sits in a pinned panel beside the page, follows each section, and ends answers with *Your call*: options it lays out without picking one, then acts on the one chosen (a journal entry, a review date, another test). It never gives tips or places orders. Its answers are scripted (`KB` in `sx-saarthi.js`); it is not live AI.
+- **Relative rotation is not shown.** "Relative Rotation Graph" is a trademark; the site uses a plain leaders-and-laggers chart instead.
+- **Samples.** Dashboards run on a sample ₹10 lakh portfolio; the Build workbench backtests generated prices, labelled as such.
